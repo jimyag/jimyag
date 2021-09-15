@@ -3,7 +3,7 @@
 
 ####  👋 Hi, I am **Jimyag**. Welcome to my repositories. Hope you can enjoy everything here.</br>
 
-#### 📫 Reach me at e-mail: 6@jimyag.cn  Thanks!
+#### 📫 Reach me at e-mail: 1@jimyag.cn  Thanks!
 
 
 <!-- <b>
