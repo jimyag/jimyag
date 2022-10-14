@@ -3,7 +3,7 @@
 
 ####  👋 Hi, I am **Jimyag**. Welcome to my repositories. Hope you can enjoy everything here.</br>
 
-#### 📫 Reach me at e-mail: i@jimyag.cn  Thanks!
+#### 📫 Reach me at e-mail: i@jimyag.com  Thanks!
 
 
 <!-- <b>
@@ -13,5 +13,5 @@
 <br></br>
 <b>
    <image src="https://github-profile-trophy.vercel.app/?username=jimyag&theme=dracula" width=700></image>
-</b> -->
-
+</b> 
+-->
