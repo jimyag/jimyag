@@ -1,9 +1,9 @@
 
 <!-- ### I Love <span style="color:red">❤</span> the DeepLearning<span style="color:white">🧠</span> and Computer Vision<span style="color:white">👀</span> -->
 
-####  👋 Hi, I am **Jimyag**. Welcome to my repositories. Hope you can enjoy everything here.</br>
+####  👋 Hi, I am **jimyag**. Welcome to my repositories. Hope you can enjoy everything here.</br>
 
-#### 📫 Reach me at e-mail: i@jimyag.com  Thanks!
+#### 📫 Reach me at e-mail: git@jimyag.com  Thanks!
 
 
 <!-- <b>
