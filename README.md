@@ -1,17 +1,32 @@
+### Hi, I'm jimyag <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 
-<!-- ### I Love <span style="color:red">❤</span> the DeepLearning<span style="color:white">🧠</span> and Computer Vision<span style="color:white">👀</span> -->
+Welcome to my repositories. Hope you can enjoy everything here.
 
-####  👋 Hi, I am **jimyag**. Welcome to my repositories. Hope you can enjoy everything here.</br>
+A developer passionate about **Go**, **Rust**, and **Cloud Native**. Currently focused on virtualization, Kubernetes, and building developer tools.
 
-#### 📫 Reach me at e-mail: git@jimyag.com  Thanks!
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Firecracker](https://img.shields.io/badge/-Firecracker-FF6600?style=flat-square)
 
+#### Recent Activity (Last 2 Months)
 
-<!-- <b>
-    <image src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimyag&layout=compact&theme=tokyonight&hide=html" width=350></image>
-</b>
+<!-- ACTIVITY_START -->
+- [auto-cert-webhook](https://github.com/jimyag/auto-cert-webhook) (24 commits, [v1.2.0](https://github.com/jimyag/auto-cert-webhook/releases/tag/v1.2.0))
+- [k8sdev](https://github.com/jimyag/k8sdev) (1 commits)
+- [jvp](https://github.com/jimyag/jvp) (92 commits, [v1.3.0](https://github.com/jimyag/jvp/releases/tag/v1.3.0))
+- [dotfiles](https://github.com/jimyag/dotfiles) (15 commits)
+- [tailx](https://github.com/jimyag/tailx) (1 commits, [v0.0.1](https://github.com/jimyag/tailx/releases/tag/v0.0.1))
+- [libvirt-rs](https://github.com/jimyag/libvirt-rs) (6 commits)
+- [ripples](https://github.com/jimyag/ripples) (9 commits)
+- [ansigo](https://github.com/jimyag/ansigo) (5 commits)
+- [devcontainer-features](https://github.com/jimyag/devcontainer-features) (1 commits)
+<!-- ACTIVITY_END -->
 
-<br></br>
-<b>
-   <image src="https://github-profile-trophy.vercel.app/?username=jimyag&theme=dracula" width=700></image>
-</b> 
--->
+---
+
+<sub><!-- UPDATED_START -->
+_Last updated: 2025-12-28 02:33 UTC_
+<!-- UPDATED_END --></sub>
