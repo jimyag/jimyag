@@ -14,9 +14,9 @@ A developer passionate about **Go**, **Rust**, and **Cloud Native**. Currently f
 #### Recent Activity (Last 2 Months)
 
 <!-- ACTIVITY_START -->
-- [auto-cert-webhook](https://github.com/jimyag/auto-cert-webhook) (24 commits, [v1.2.0](https://github.com/jimyag/auto-cert-webhook/releases/tag/v1.2.0))
+- [auto-cert-webhook](https://github.com/jimyag/auto-cert-webhook) (24 commits, [v1.2.1](https://github.com/jimyag/auto-cert-webhook/releases/tag/v1.2.1))
 - [k8sdev](https://github.com/jimyag/k8sdev) (1 commits)
-- [jvp](https://github.com/jimyag/jvp) (92 commits, [v1.3.0](https://github.com/jimyag/jvp/releases/tag/v1.3.0))
+- [jvp](https://github.com/jimyag/jvp) (88 commits, [v1.3.0](https://github.com/jimyag/jvp/releases/tag/v1.3.0))
 - [dotfiles](https://github.com/jimyag/dotfiles) (15 commits)
 - [tailx](https://github.com/jimyag/tailx) (1 commits, [v0.0.1](https://github.com/jimyag/tailx/releases/tag/v0.0.1))
 - [libvirt-rs](https://github.com/jimyag/libvirt-rs) (6 commits)
@@ -28,5 +28,5 @@ A developer passionate about **Go**, **Rust**, and **Cloud Native**. Currently f
 ---
 
 <sub><!-- UPDATED_START -->
-_Last updated: 2025-12-28 02:44 UTC_
+_Last updated: 2025-12-29 00:34 UTC_
 <!-- UPDATED_END --></sub>
