@@ -14,6 +14,7 @@ A developer passionate about **Go**, **Rust**, and **Cloud Native**. Currently f
 #### Recent Activity (Last 2 Months)
 
 <!-- ACTIVITY_START -->
+- [cc-stats](https://github.com/jimyag/cc-stats) (5 commits)
 - [auto-cert-webhook](https://github.com/jimyag/auto-cert-webhook) (24 commits, [v1.2.1](https://github.com/jimyag/auto-cert-webhook/releases/tag/v1.2.1))
 - [k8sdev](https://github.com/jimyag/k8sdev) (1 commits)
 - [jvp](https://github.com/jimyag/jvp) (88 commits, [v1.3.0](https://github.com/jimyag/jvp/releases/tag/v1.3.0))
@@ -28,5 +29,5 @@ A developer passionate about **Go**, **Rust**, and **Cloud Native**. Currently f
 ---
 
 <sub><!-- UPDATED_START -->
-_Last updated: 2026-01-04 00:35 UTC_
+_Last updated: 2026-01-05 00:34 UTC_
 <!-- UPDATED_END --></sub>
