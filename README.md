@@ -21,13 +21,12 @@ A developer passionate about **Go**, **Rust**, and **Cloud Native**. Currently f
 - [dotfiles](https://github.com/jimyag/dotfiles) (2 commits)
 - [tailx](https://github.com/jimyag/tailx) (1 commits, [v0.0.1](https://github.com/jimyag/tailx/releases/tag/v0.0.1))
 - [libvirt-rs](https://github.com/jimyag/libvirt-rs) (6 commits)
-- [ripples](https://github.com/jimyag/ripples) (9 commits)
-- [ansigo](https://github.com/jimyag/ansigo) (5 commits)
-- [devcontainer-features](https://github.com/jimyag/devcontainer-features) (1 commits)
+- [ripples](https://github.com/jimyag/ripples) (2 commits)
+- [ansigo](https://github.com/jimyag/ansigo) (1 commits)
 <!-- ACTIVITY_END -->
 
 ---
 
 <sub><!-- UPDATED_START -->
-_Last updated: 2026-01-21 00:32 UTC_
+_Last updated: 2026-01-22 00:33 UTC_
 <!-- UPDATED_END --></sub>
