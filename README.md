@@ -17,7 +17,7 @@ A developer passionate about **Go**, **Rust**, and **Cloud Native**. Currently f
 - [traffic-analyzer](https://github.com/jimyag/traffic-analyzer) (4 commits, [v0.0.1](https://github.com/jimyag/traffic-analyzer/releases/tag/v0.0.1))
 - [dotfiles](https://github.com/jimyag/dotfiles) (8 commits)
 - [auto-cert-webhook](https://github.com/jimyag/auto-cert-webhook) (25 commits, [v1.2.3](https://github.com/jimyag/auto-cert-webhook/releases/tag/v1.2.3))
-- [jvp](https://github.com/jimyag/jvp) (10 commits, [v1.4.0](https://github.com/jimyag/jvp/releases/tag/v1.4.0))
+- [jvp](https://github.com/jimyag/jvp) (7 commits, [v1.4.0](https://github.com/jimyag/jvp/releases/tag/v1.4.0))
 - [cc-stats](https://github.com/jimyag/cc-stats) (7 commits)
 - [k8sdev](https://github.com/jimyag/k8sdev) (1 commits)
 - [tailx](https://github.com/jimyag/tailx) (1 commits, [v0.0.1](https://github.com/jimyag/tailx/releases/tag/v0.0.1))
@@ -27,5 +27,5 @@ A developer passionate about **Go**, **Rust**, and **Cloud Native**. Currently f
 ---
 
 <sub><!-- UPDATED_START -->
-_Last updated: 2026-02-15 00:41 UTC_
+_Last updated: 2026-02-16 00:39 UTC_
 <!-- UPDATED_END --></sub>
