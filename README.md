@@ -14,7 +14,7 @@ A developer passionate about **Go**, **Rust**, and **Cloud Native**. Currently f
 #### Recent Activity (Last 2 Months)
 
 <!-- ACTIVITY_START -->
-- [kubevirt-console](https://github.com/jimyag/kubevirt-console) (9 commits, [v1.1.0](https://github.com/jimyag/kubevirt-console/releases/tag/v1.1.0))
+- [kubevirt-dashboard](https://github.com/jimyag/kubevirt-dashboard) (15 commits, [v2.0.0-alpha2](https://github.com/jimyag/kubevirt-dashboard/releases/tag/v2.0.0-alpha2))
 - [dotfiles](https://github.com/jimyag/dotfiles) (15 commits)
 - [traffic-analyzer](https://github.com/jimyag/traffic-analyzer) (4 commits, [v0.0.1](https://github.com/jimyag/traffic-analyzer/releases/tag/v0.0.1))
 - [auto-cert-webhook](https://github.com/jimyag/auto-cert-webhook) (1 commits, [v1.2.3](https://github.com/jimyag/auto-cert-webhook/releases/tag/v1.2.3))
@@ -25,5 +25,5 @@ A developer passionate about **Go**, **Rust**, and **Cloud Native**. Currently f
 ---
 
 <sub><!-- UPDATED_START -->
-_Last updated: 2026-03-13 00:38 UTC_
+_Last updated: 2026-03-14 00:36 UTC_
 <!-- UPDATED_END --></sub>
