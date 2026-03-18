@@ -14,6 +14,7 @@ A developer passionate about **Go**, **Rust**, and **Cloud Native**. Currently f
 #### Recent Activity (Last 2 Months)
 
 <!-- ACTIVITY_START -->
+- [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn) (1 merged PR)
 - [kubevirt-dashboard](https://github.com/jimyag/kubevirt-dashboard) (19 commits, [v2.1.0](https://github.com/jimyag/kubevirt-dashboard/releases/tag/v2.1.0))
 - [dotfiles](https://github.com/jimyag/dotfiles) (15 commits)
 - [traffic-analyzer](https://github.com/jimyag/traffic-analyzer) (4 commits, [v0.0.1](https://github.com/jimyag/traffic-analyzer/releases/tag/v0.0.1))
@@ -25,5 +26,5 @@ A developer passionate about **Go**, **Rust**, and **Cloud Native**. Currently f
 ---
 
 <sub><!-- UPDATED_START -->
-_Last updated: 2026-03-17 00:40 UTC_
+_Last updated: 2026-03-18 00:40 UTC_
 <!-- UPDATED_END --></sub>
