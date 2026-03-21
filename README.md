@@ -14,10 +14,10 @@ A developer passionate about **Go**, **Rust**, and **Cloud Native**. Currently f
 #### Recent Activity (Last 2 Months)
 
 <!-- ACTIVITY_START -->
+- [dotfiles](https://github.com/jimyag/dotfiles) (16 commits)
 - [play-majiang-with-ai](https://github.com/jimyag/play-majiang-with-ai) (2 commits)
 - [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn) (1 merged PR)
 - [kubevirt-dashboard](https://github.com/jimyag/kubevirt-dashboard) (19 commits, [v2.1.0](https://github.com/jimyag/kubevirt-dashboard/releases/tag/v2.1.0))
-- [dotfiles](https://github.com/jimyag/dotfiles) (15 commits)
 - [traffic-analyzer](https://github.com/jimyag/traffic-analyzer) (4 commits, [v0.0.1](https://github.com/jimyag/traffic-analyzer/releases/tag/v0.0.1))
 - [auto-cert-webhook](https://github.com/jimyag/auto-cert-webhook) (1 commits, [v1.2.3](https://github.com/jimyag/auto-cert-webhook/releases/tag/v1.2.3))
 - [jvp](https://github.com/jimyag/jvp) (2 commits, [v1.4.0](https://github.com/jimyag/jvp/releases/tag/v1.4.0))
@@ -27,5 +27,5 @@ A developer passionate about **Go**, **Rust**, and **Cloud Native**. Currently f
 ---
 
 <sub><!-- UPDATED_START -->
-_Last updated: 2026-03-20 00:38 UTC_
+_Last updated: 2026-03-21 00:36 UTC_
 <!-- UPDATED_END --></sub>
