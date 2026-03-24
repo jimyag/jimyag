@@ -14,6 +14,7 @@ A developer passionate about **Go**, **Rust**, and **Cloud Native**. Currently f
 #### Recent Activity (Last 2 Months)
 
 <!-- ACTIVITY_START -->
+- [jd](https://github.com/jimyag/jd) (38 commits, [v0.2.0](https://github.com/jimyag/jd/releases/tag/v0.2.0))
 - [dotfiles](https://github.com/jimyag/dotfiles) (16 commits)
 - [play-majiang-with-ai](https://github.com/jimyag/play-majiang-with-ai) (2 commits)
 - [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn) (1 merged PR)
@@ -27,5 +28,5 @@ A developer passionate about **Go**, **Rust**, and **Cloud Native**. Currently f
 ---
 
 <sub><!-- UPDATED_START -->
-_Last updated: 2026-03-23 00:42 UTC_
+_Last updated: 2026-03-24 00:35 UTC_
 <!-- UPDATED_END --></sub>
