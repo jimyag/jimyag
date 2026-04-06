@@ -15,16 +15,15 @@ A developer passionate about **Go**, **Rust**, and **Cloud Native**. Currently f
 
 <!-- ACTIVITY_START -->
 - [jd](https://github.com/jimyag/jd) (39 commits, [v0.2.0](https://github.com/jimyag/jd/releases/tag/v0.2.0))
-- [dotfiles](https://github.com/jimyag/dotfiles) (16 commits)
+- [dotfiles](https://github.com/jimyag/dotfiles) (12 commits)
 - [play-majiang-with-ai](https://github.com/jimyag/play-majiang-with-ai) (2 commits)
 - [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn) (1 merged PR)
 - [kubevirt-dashboard](https://github.com/jimyag/kubevirt-dashboard) (19 commits, [v2.1.0](https://github.com/jimyag/kubevirt-dashboard/releases/tag/v2.1.0))
 - [traffic-analyzer](https://github.com/jimyag/traffic-analyzer) (4 commits, [v0.0.1](https://github.com/jimyag/traffic-analyzer/releases/tag/v0.0.1))
-- [auto-cert-webhook](https://github.com/jimyag/auto-cert-webhook) (1 commits, [v1.2.3](https://github.com/jimyag/auto-cert-webhook/releases/tag/v1.2.3))
 <!-- ACTIVITY_END -->
 
 ---
 
 <sub><!-- UPDATED_START -->
-_Last updated: 2026-04-05 00:45 UTC_
+_Last updated: 2026-04-06 00:45 UTC_
 <!-- UPDATED_END --></sub>
