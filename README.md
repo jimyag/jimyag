@@ -14,6 +14,7 @@ A developer passionate about **Go**, **Rust**, and **Cloud Native**. Currently f
 #### Recent Activity (Last 2 Months)
 
 <!-- ACTIVITY_START -->
+- [portzero](https://github.com/jimyag/portzero) (3 commits)
 - [jd](https://github.com/jimyag/jd) (39 commits, [v0.2.0](https://github.com/jimyag/jd/releases/tag/v0.2.0))
 - [dotfiles](https://github.com/jimyag/dotfiles) (12 commits)
 - [play-majiang-with-ai](https://github.com/jimyag/play-majiang-with-ai) (2 commits)
@@ -25,5 +26,5 @@ A developer passionate about **Go**, **Rust**, and **Cloud Native**. Currently f
 ---
 
 <sub><!-- UPDATED_START -->
-_Last updated: 2026-04-08 00:44 UTC_
+_Last updated: 2026-04-09 00:37 UTC_
 <!-- UPDATED_END --></sub>
