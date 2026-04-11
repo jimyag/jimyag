@@ -14,6 +14,7 @@ A developer passionate about **Go**, **Rust**, and **Cloud Native**. Currently f
 #### Recent Activity (Last 2 Months)
 
 <!-- ACTIVITY_START -->
+- [sys-mcp](https://github.com/jimyag/sys-mcp) (13 commits)
 - [auto-cert-webhook](https://github.com/jimyag/auto-cert-webhook) (2 commits, [v1.2.5](https://github.com/jimyag/auto-cert-webhook/releases/tag/v1.2.5))
 - [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn) (2 merged PRs)
 - [portzero](https://github.com/jimyag/portzero) (3 commits)
@@ -27,5 +28,5 @@ A developer passionate about **Go**, **Rust**, and **Cloud Native**. Currently f
 ---
 
 <sub><!-- UPDATED_START -->
-_Last updated: 2026-04-10 00:43 UTC_
+_Last updated: 2026-04-11 00:42 UTC_
 <!-- UPDATED_END --></sub>
