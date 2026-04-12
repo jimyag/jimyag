@@ -14,12 +14,12 @@ A developer passionate about **Go**, **Rust**, and **Cloud Native**. Currently f
 #### Recent Activity (Last 2 Months)
 
 <!-- ACTIVITY_START -->
-- [sys-mcp](https://github.com/jimyag/sys-mcp) (13 commits)
+- [dotfiles](https://github.com/jimyag/dotfiles) (11 commits)
+- [sys-mcp](https://github.com/jimyag/sys-mcp) (24 commits)
 - [auto-cert-webhook](https://github.com/jimyag/auto-cert-webhook) (2 commits, [v1.2.5](https://github.com/jimyag/auto-cert-webhook/releases/tag/v1.2.5))
 - [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn) (2 merged PRs)
 - [portzero](https://github.com/jimyag/portzero) (3 commits)
 - [jd](https://github.com/jimyag/jd) (39 commits, [v0.2.0](https://github.com/jimyag/jd/releases/tag/v0.2.0))
-- [dotfiles](https://github.com/jimyag/dotfiles) (9 commits)
 - [play-majiang-with-ai](https://github.com/jimyag/play-majiang-with-ai) (2 commits)
 - [kubevirt-dashboard](https://github.com/jimyag/kubevirt-dashboard) (19 commits, [v2.1.0](https://github.com/jimyag/kubevirt-dashboard/releases/tag/v2.1.0))
 - [traffic-analyzer](https://github.com/jimyag/traffic-analyzer) (4 commits, [v0.0.1](https://github.com/jimyag/traffic-analyzer/releases/tag/v0.0.1))
@@ -28,5 +28,5 @@ A developer passionate about **Go**, **Rust**, and **Cloud Native**. Currently f
 ---
 
 <sub><!-- UPDATED_START -->
-_Last updated: 2026-04-11 00:42 UTC_
+_Last updated: 2026-04-12 00:47 UTC_
 <!-- UPDATED_END --></sub>
