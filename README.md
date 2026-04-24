@@ -14,20 +14,20 @@ A developer passionate about **Go**, **Rust**, and **Cloud Native**. Currently f
 #### Recent Activity (Last 2 Months)
 
 <!-- ACTIVITY_START -->
+- [commitlens](https://github.com/jimyag/commitlens) (24 commits)
+- [dotfiles](https://github.com/jimyag/dotfiles) (12 commits)
 - [Piebald-AI/splitrail](https://github.com/Piebald-AI/splitrail) (2 merged PRs)
 - [stark](https://github.com/jimyag/stark) (14 commits)
 - [sys-mcp](https://github.com/jimyag/sys-mcp) (31 commits, [v0.0.1-rc1](https://github.com/jimyag/sys-mcp/releases/tag/v0.0.1-rc1))
 - [auto-cert-webhook](https://github.com/jimyag/auto-cert-webhook) (3 commits, [v1.2.5](https://github.com/jimyag/auto-cert-webhook/releases/tag/v1.2.5))
-- [dotfiles](https://github.com/jimyag/dotfiles) (11 commits)
 - [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn) (2 merged PRs)
 - [portzero](https://github.com/jimyag/portzero) (3 commits)
 - [jd](https://github.com/jimyag/jd) (39 commits, [v0.2.0](https://github.com/jimyag/jd/releases/tag/v0.2.0))
 - [play-majiang-with-ai](https://github.com/jimyag/play-majiang-with-ai) (2 commits)
-- [kubevirt-dashboard](https://github.com/jimyag/kubevirt-dashboard) (19 commits, [v2.1.0](https://github.com/jimyag/kubevirt-dashboard/releases/tag/v2.1.0))
 <!-- ACTIVITY_END -->
 
 ---
 
 <sub><!-- UPDATED_START -->
-_Last updated: 2026-04-23 00:50 UTC_
+_Last updated: 2026-04-24 00:50 UTC_
 <!-- UPDATED_END --></sub>
