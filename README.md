@@ -14,8 +14,9 @@ A developer passionate about **Go**, **Rust**, and **Cloud Native**. Currently f
 #### Recent Activity (Last 2 Months)
 
 <!-- ACTIVITY_START -->
-- [commitlens](https://github.com/jimyag/commitlens) (26 commits)
+- [template-repository](https://github.com/jimyag/template-repository) (6 commits, [v0.0.2](https://github.com/jimyag/template-repository/releases/tag/v0.0.2))
 - [dotfiles](https://github.com/jimyag/dotfiles) (12 commits)
+- [commitlens](https://github.com/jimyag/commitlens) (26 commits)
 - [Piebald-AI/splitrail](https://github.com/Piebald-AI/splitrail) (2 merged PRs)
 - [stark](https://github.com/jimyag/stark) (14 commits)
 - [sys-mcp](https://github.com/jimyag/sys-mcp) (31 commits, [v0.0.1-rc1](https://github.com/jimyag/sys-mcp/releases/tag/v0.0.1-rc1))
@@ -23,11 +24,10 @@ A developer passionate about **Go**, **Rust**, and **Cloud Native**. Currently f
 - [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn) (2 merged PRs)
 - [portzero](https://github.com/jimyag/portzero) (3 commits)
 - [jd](https://github.com/jimyag/jd) (39 commits, [v0.2.0](https://github.com/jimyag/jd/releases/tag/v0.2.0))
-- [play-majiang-with-ai](https://github.com/jimyag/play-majiang-with-ai) (2 commits)
 <!-- ACTIVITY_END -->
 
 ---
 
 <sub><!-- UPDATED_START -->
-_Last updated: 2026-04-25 00:45 UTC_
+_Last updated: 2026-04-26 00:52 UTC_
 <!-- UPDATED_END --></sub>
