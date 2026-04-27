@@ -14,11 +14,11 @@ A developer passionate about **Go**, **Rust**, and **Cloud Native**. Currently f
 #### Recent Activity (Last 2 Months)
 
 <!-- ACTIVITY_START -->
+- [stark](https://github.com/jimyag/stark) (15 commits)
 - [template-repository](https://github.com/jimyag/template-repository) (6 commits, [v0.0.2](https://github.com/jimyag/template-repository/releases/tag/v0.0.2))
-- [dotfiles](https://github.com/jimyag/dotfiles) (12 commits)
+- [dotfiles](https://github.com/jimyag/dotfiles) (11 commits)
 - [commitlens](https://github.com/jimyag/commitlens) (26 commits)
 - [Piebald-AI/splitrail](https://github.com/Piebald-AI/splitrail) (2 merged PRs)
-- [stark](https://github.com/jimyag/stark) (14 commits)
 - [sys-mcp](https://github.com/jimyag/sys-mcp) (31 commits, [v0.0.1-rc1](https://github.com/jimyag/sys-mcp/releases/tag/v0.0.1-rc1))
 - [auto-cert-webhook](https://github.com/jimyag/auto-cert-webhook) (3 commits, [v1.2.5](https://github.com/jimyag/auto-cert-webhook/releases/tag/v1.2.5))
 - [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn) (2 merged PRs)
@@ -29,5 +29,5 @@ A developer passionate about **Go**, **Rust**, and **Cloud Native**. Currently f
 ---
 
 <sub><!-- UPDATED_START -->
-_Last updated: 2026-04-26 00:52 UTC_
+_Last updated: 2026-04-27 00:51 UTC_
 <!-- UPDATED_END --></sub>
