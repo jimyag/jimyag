@@ -14,8 +14,8 @@ A developer passionate about **Go**, **Rust**, and **Cloud Native**. Currently f
 #### Recent Activity (Last 2 Months)
 
 <!-- ACTIVITY_START -->
+- [dotfiles](https://github.com/jimyag/dotfiles) (14 commits)
 - [Piebald-AI/splitrail](https://github.com/Piebald-AI/splitrail) (3 merged PRs)
-- [dotfiles](https://github.com/jimyag/dotfiles) (16 commits)
 - [stark](https://github.com/jimyag/stark) (15 commits)
 - [template-repository](https://github.com/jimyag/template-repository) (6 commits, [v0.0.2](https://github.com/jimyag/template-repository/releases/tag/v0.0.2))
 - [commitlens](https://github.com/jimyag/commitlens) (26 commits)
@@ -29,5 +29,5 @@ A developer passionate about **Go**, **Rust**, and **Cloud Native**. Currently f
 ---
 
 <sub><!-- UPDATED_START -->
-_Last updated: 2026-05-06 00:50 UTC_
+_Last updated: 2026-05-07 00:54 UTC_
 <!-- UPDATED_END --></sub>
