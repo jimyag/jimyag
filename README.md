@@ -14,20 +14,20 @@ A developer passionate about **Go**, **Rust**, and **Cloud Native**. Currently f
 #### Recent Activity (Last 2 Months)
 
 <!-- ACTIVITY_START -->
+- [kubevirt-dashboard](https://github.com/jimyag/kubevirt-dashboard) (19 commits, [v2.1.0](https://github.com/jimyag/kubevirt-dashboard/releases/tag/v2.1.0))
+- [commitlens](https://github.com/jimyag/commitlens) (31 commits)
 - [sysplane](https://github.com/jimyag/sysplane) (52 commits, [v0.0.1-rc1](https://github.com/jimyag/sysplane/releases/tag/v0.0.1-rc1))
-- [dotfiles](https://github.com/jimyag/dotfiles) (14 commits)
+- [dotfiles](https://github.com/jimyag/dotfiles) (11 commits)
 - [Piebald-AI/splitrail](https://github.com/Piebald-AI/splitrail) (3 merged PRs)
 - [stark](https://github.com/jimyag/stark) (15 commits)
 - [template-repository](https://github.com/jimyag/template-repository) (6 commits, [v0.0.2](https://github.com/jimyag/template-repository/releases/tag/v0.0.2))
-- [commitlens](https://github.com/jimyag/commitlens) (26 commits)
 - [auto-cert-webhook](https://github.com/jimyag/auto-cert-webhook) (3 commits, [v1.2.5](https://github.com/jimyag/auto-cert-webhook/releases/tag/v1.2.5))
 - [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn) (2 merged PRs)
 - [portzero](https://github.com/jimyag/portzero) (3 commits)
-- [jd](https://github.com/jimyag/jd) (39 commits, [v0.2.0](https://github.com/jimyag/jd/releases/tag/v0.2.0))
 <!-- ACTIVITY_END -->
 
 ---
 
 <sub><!-- UPDATED_START -->
-_Last updated: 2026-05-08 00:54 UTC_
+_Last updated: 2026-05-09 00:54 UTC_
 <!-- UPDATED_END --></sub>
