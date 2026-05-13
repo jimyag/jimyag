@@ -14,10 +14,10 @@ A developer passionate about **Go**, **Rust**, and **Cloud Native**. Currently f
 #### Recent Activity (Last 2 Months)
 
 <!-- ACTIVITY_START -->
+- [kubevirt-dashboard](https://github.com/jimyag/kubevirt-dashboard) (17 commits, [v2.2.0](https://github.com/jimyag/kubevirt-dashboard/releases/tag/v2.2.0))
 - [ripples](https://github.com/jimyag/ripples) (1 commits)
 - [stark](https://github.com/jimyag/stark) (16 commits)
 - [jd](https://github.com/jimyag/jd) (41 commits, [v0.2.0](https://github.com/jimyag/jd/releases/tag/v0.2.0))
-- [kubevirt-dashboard](https://github.com/jimyag/kubevirt-dashboard) (23 commits, [v2.2.0](https://github.com/jimyag/kubevirt-dashboard/releases/tag/v2.2.0))
 - [commitlens](https://github.com/jimyag/commitlens) (58 commits)
 - [sysplane](https://github.com/jimyag/sysplane) (52 commits, [v0.0.1-rc1](https://github.com/jimyag/sysplane/releases/tag/v0.0.1-rc1))
 - [dotfiles](https://github.com/jimyag/dotfiles) (11 commits)
@@ -29,5 +29,5 @@ A developer passionate about **Go**, **Rust**, and **Cloud Native**. Currently f
 ---
 
 <sub><!-- UPDATED_START -->
-_Last updated: 2026-05-12 00:53 UTC_
+_Last updated: 2026-05-13 00:57 UTC_
 <!-- UPDATED_END --></sub>
