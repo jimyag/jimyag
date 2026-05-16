@@ -14,6 +14,7 @@ A developer passionate about **Go**, **Rust**, and **Cloud Native**. Currently f
 #### Recent Activity (Last 2 Months)
 
 <!-- ACTIVITY_START -->
+- [ai-token-exporter](https://github.com/jimyag/ai-token-exporter) (7 commits)
 - [Piebald-AI/splitrail](https://github.com/Piebald-AI/splitrail) (4 merged PRs)
 - [kubevirt-dashboard](https://github.com/jimyag/kubevirt-dashboard) (13 commits, [v2.2.0](https://github.com/jimyag/kubevirt-dashboard/releases/tag/v2.2.0))
 - [ripples](https://github.com/jimyag/ripples) (1 commits)
@@ -23,11 +24,10 @@ A developer passionate about **Go**, **Rust**, and **Cloud Native**. Currently f
 - [sysplane](https://github.com/jimyag/sysplane) (52 commits, [v0.0.1-rc1](https://github.com/jimyag/sysplane/releases/tag/v0.0.1-rc1))
 - [dotfiles](https://github.com/jimyag/dotfiles) (11 commits)
 - [template-repository](https://github.com/jimyag/template-repository) (6 commits, [v0.0.2](https://github.com/jimyag/template-repository/releases/tag/v0.0.2))
-- [auto-cert-webhook](https://github.com/jimyag/auto-cert-webhook) (3 commits, [v1.2.5](https://github.com/jimyag/auto-cert-webhook/releases/tag/v1.2.5))
 <!-- ACTIVITY_END -->
 
 ---
 
 <sub><!-- UPDATED_START -->
-_Last updated: 2026-05-15 00:56 UTC_
+_Last updated: 2026-05-16 00:53 UTC_
 <!-- UPDATED_END --></sub>
