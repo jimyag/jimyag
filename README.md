@@ -14,7 +14,7 @@ A developer passionate about **Go**, **Rust**, and **Cloud Native**. Currently f
 #### Recent Activity (Last 2 Months)
 
 <!-- ACTIVITY_START -->
-- [ai-token-exporter](https://github.com/jimyag/ai-token-exporter) (7 commits)
+- [ai-token-exporter](https://github.com/jimyag/ai-token-exporter) (20 commits, [v0.1.2](https://github.com/jimyag/ai-token-exporter/releases/tag/v0.1.2))
 - [Piebald-AI/splitrail](https://github.com/Piebald-AI/splitrail) (4 merged PRs)
 - [kubevirt-dashboard](https://github.com/jimyag/kubevirt-dashboard) (13 commits, [v2.2.0](https://github.com/jimyag/kubevirt-dashboard/releases/tag/v2.2.0))
 - [ripples](https://github.com/jimyag/ripples) (1 commits)
@@ -29,5 +29,5 @@ A developer passionate about **Go**, **Rust**, and **Cloud Native**. Currently f
 ---
 
 <sub><!-- UPDATED_START -->
-_Last updated: 2026-05-16 00:53 UTC_
+_Last updated: 2026-05-17 01:00 UTC_
 <!-- UPDATED_END --></sub>
