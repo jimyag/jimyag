@@ -14,20 +14,20 @@ A developer passionate about **Go**, **Rust**, and **Cloud Native**. Currently f
 #### Recent Activity (Last 2 Months)
 
 <!-- ACTIVITY_START -->
-- [e2b-github-runner](https://github.com/jimyag/e2b-github-runner) (20 commits)
+- [e2b-github-runner](https://github.com/jimyag/e2b-github-runner) (22 commits)
+- [jd](https://github.com/jimyag/jd) (4 commits, [v0.2.1](https://github.com/jimyag/jd/releases/tag/v0.2.1))
+- [dotfiles](https://github.com/jimyag/dotfiles) (13 commits)
 - [stark](https://github.com/jimyag/stark) (17 commits)
 - [template-repository](https://github.com/jimyag/template-repository) (6 commits, [v0.0.2](https://github.com/jimyag/template-repository/releases/tag/v0.0.2))
 - [ai-token-exporter](https://github.com/jimyag/ai-token-exporter) (20 commits, [v0.1.2](https://github.com/jimyag/ai-token-exporter/releases/tag/v0.1.2))
 - [Piebald-AI/splitrail](https://github.com/Piebald-AI/splitrail) (4 merged PRs)
 - [kubevirt-dashboard](https://github.com/jimyag/kubevirt-dashboard) (13 commits, [v2.2.0](https://github.com/jimyag/kubevirt-dashboard/releases/tag/v2.2.0))
 - [ripples](https://github.com/jimyag/ripples) (1 commits)
-- [jd](https://github.com/jimyag/jd) (2 commits, [v0.2.0](https://github.com/jimyag/jd/releases/tag/v0.2.0))
 - [commitlens](https://github.com/jimyag/commitlens) (58 commits)
-- [sysplane](https://github.com/jimyag/sysplane) (52 commits, [v0.0.1-rc1](https://github.com/jimyag/sysplane/releases/tag/v0.0.1-rc1))
 <!-- ACTIVITY_END -->
 
 ---
 
 <sub><!-- UPDATED_START -->
-_Last updated: 2026-05-24 01:02 UTC_
+_Last updated: 2026-05-25 01:03 UTC_
 <!-- UPDATED_END --></sub>
