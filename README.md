@@ -14,7 +14,8 @@ A developer passionate about **Go**, **Rust**, and **Cloud Native**. Currently f
 #### Recent Activity (Last 2 Months)
 
 <!-- ACTIVITY_START -->
-- [e2b-github-runner](https://github.com/jimyag/e2b-github-runner) (22 commits)
+- [logpilot](https://github.com/jimyag/logpilot) (28 commits)
+- [e2b-github-runner](https://github.com/jimyag/e2b-github-runner) (31 commits, [v0.1.0](https://github.com/jimyag/e2b-github-runner/releases/tag/v0.1.0))
 - [jd](https://github.com/jimyag/jd) (4 commits, [v0.2.1](https://github.com/jimyag/jd/releases/tag/v0.2.1))
 - [dotfiles](https://github.com/jimyag/dotfiles) (13 commits)
 - [stark](https://github.com/jimyag/stark) (17 commits)
@@ -23,11 +24,10 @@ A developer passionate about **Go**, **Rust**, and **Cloud Native**. Currently f
 - [Piebald-AI/splitrail](https://github.com/Piebald-AI/splitrail) (4 merged PRs)
 - [kubevirt-dashboard](https://github.com/jimyag/kubevirt-dashboard) (13 commits, [v2.2.0](https://github.com/jimyag/kubevirt-dashboard/releases/tag/v2.2.0))
 - [ripples](https://github.com/jimyag/ripples) (1 commits)
-- [commitlens](https://github.com/jimyag/commitlens) (58 commits)
 <!-- ACTIVITY_END -->
 
 ---
 
 <sub><!-- UPDATED_START -->
-_Last updated: 2026-05-25 01:03 UTC_
+_Last updated: 2026-05-26 01:00 UTC_
 <!-- UPDATED_END --></sub>
