@@ -14,12 +14,12 @@ A developer passionate about **Go**, **Rust**, and **Cloud Native**. Currently f
 #### Recent Activity (Last 2 Months)
 
 <!-- ACTIVITY_START -->
+- [stark](https://github.com/jimyag/stark) (19 commits)
+- [e2b-github-runner](https://github.com/jimyag/e2b-github-runner) (39 commits, [v0.1.0](https://github.com/jimyag/e2b-github-runner/releases/tag/v0.1.0))
 - [parquet-tools](https://github.com/jimyag/parquet-tools) (4 commits, [v1.1.2-alpha](https://github.com/jimyag/parquet-tools/releases/tag/v1.1.2-alpha))
-- [e2b-github-runner](https://github.com/jimyag/e2b-github-runner) (33 commits, [v0.1.0](https://github.com/jimyag/e2b-github-runner/releases/tag/v0.1.0))
 - [logpilot](https://github.com/jimyag/logpilot) (34 commits)
 - [jd](https://github.com/jimyag/jd) (4 commits, [v0.2.1](https://github.com/jimyag/jd/releases/tag/v0.2.1))
 - [dotfiles](https://github.com/jimyag/dotfiles) (13 commits)
-- [stark](https://github.com/jimyag/stark) (17 commits)
 - [template-repository](https://github.com/jimyag/template-repository) (6 commits, [v0.0.2](https://github.com/jimyag/template-repository/releases/tag/v0.0.2))
 - [ai-token-exporter](https://github.com/jimyag/ai-token-exporter) (20 commits, [v0.1.2](https://github.com/jimyag/ai-token-exporter/releases/tag/v0.1.2))
 - [Piebald-AI/splitrail](https://github.com/Piebald-AI/splitrail) (4 merged PRs)
@@ -29,5 +29,5 @@ A developer passionate about **Go**, **Rust**, and **Cloud Native**. Currently f
 ---
 
 <sub><!-- UPDATED_START -->
-_Last updated: 2026-05-28 00:56 UTC_
+_Last updated: 2026-05-29 01:05 UTC_
 <!-- UPDATED_END --></sub>
