@@ -14,9 +14,9 @@ A developer passionate about **Go**, **Rust**, and **Cloud Native**. Currently f
 #### Recent Activity (Last 2 Months)
 
 <!-- ACTIVITY_START -->
+- [mcga](https://github.com/jimyag/mcga) (42 commits, [v0.1.0](https://github.com/jimyag/mcga/releases/tag/v0.1.0))
 - [netloom](https://github.com/jimyag/netloom) (100 commits)
 - [ai-token-exporter](https://github.com/jimyag/ai-token-exporter) (21 commits, [v0.1.2](https://github.com/jimyag/ai-token-exporter/releases/tag/v0.1.2))
-- [mcga](https://github.com/jimyag/mcga) (40 commits, [v0.1.0](https://github.com/jimyag/mcga/releases/tag/v0.1.0))
 - [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn) (2 merged PRs)
 - [e2b-github-runner](https://github.com/jimyag/e2b-github-runner) (43 commits, [v0.2.0](https://github.com/jimyag/e2b-github-runner/releases/tag/v0.2.0))
 - [stark](https://github.com/jimyag/stark) (20 commits)
@@ -29,5 +29,5 @@ A developer passionate about **Go**, **Rust**, and **Cloud Native**. Currently f
 ---
 
 <sub><!-- UPDATED_START -->
-_Last updated: 2026-06-01 01:10 UTC_
+_Last updated: 2026-06-02 01:08 UTC_
 <!-- UPDATED_END --></sub>
