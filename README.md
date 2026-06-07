@@ -14,7 +14,8 @@ A developer passionate about **Go**, **Rust**, and **Cloud Native**. Currently f
 #### Recent Activity (Last 2 Months)
 
 <!-- ACTIVITY_START -->
-- [mcga](https://github.com/jimyag/mcga) (48 commits, [v0.1.1](https://github.com/jimyag/mcga/releases/tag/v0.1.1))
+- [dotfiles](https://github.com/jimyag/dotfiles) (14 commits)
+- [mcga](https://github.com/jimyag/mcga) (49 commits, [v0.1.1](https://github.com/jimyag/mcga/releases/tag/v0.1.1))
 - [netloom](https://github.com/jimyag/netloom) (100 commits)
 - [kubevirt-dashboard](https://github.com/jimyag/kubevirt-dashboard) (13 commits, [v2.2.0](https://github.com/jimyag/kubevirt-dashboard/releases/tag/v2.2.0))
 - [e2b-github-runner](https://github.com/jimyag/e2b-github-runner) (44 commits, [v0.2.0](https://github.com/jimyag/e2b-github-runner/releases/tag/v0.2.0))
@@ -23,11 +24,10 @@ A developer passionate about **Go**, **Rust**, and **Cloud Native**. Currently f
 - [stark](https://github.com/jimyag/stark) (20 commits)
 - [parquet-tools](https://github.com/jimyag/parquet-tools) (4 commits, [v1.1.2-alpha](https://github.com/jimyag/parquet-tools/releases/tag/v1.1.2-alpha))
 - [logpilot](https://github.com/jimyag/logpilot) (34 commits)
-- [jd](https://github.com/jimyag/jd) (4 commits, [v0.2.1](https://github.com/jimyag/jd/releases/tag/v0.2.1))
 <!-- ACTIVITY_END -->
 
 ---
 
 <sub><!-- UPDATED_START -->
-_Last updated: 2026-06-06 01:01 UTC_
+_Last updated: 2026-06-07 01:08 UTC_
 <!-- UPDATED_END --></sub>
