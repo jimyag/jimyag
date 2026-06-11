@@ -14,13 +14,13 @@ A developer passionate about **Go**, **Rust**, and **Cloud Native**. Currently f
 #### Recent Activity (Last 2 Months)
 
 <!-- ACTIVITY_START -->
-- [Piebald-AI/splitrail](https://github.com/Piebald-AI/splitrail) (5 merged PRs)
-- [kubevirt-dashboard](https://github.com/jimyag/kubevirt-dashboard) (13 commits, [v2.2.0](https://github.com/jimyag/kubevirt-dashboard/releases/tag/v2.2.0))
-- [dotfiles](https://github.com/jimyag/dotfiles) (14 commits)
-- [mcga](https://github.com/jimyag/mcga) (49 commits, [v0.1.1](https://github.com/jimyag/mcga/releases/tag/v0.1.1))
 - [netloom](https://github.com/jimyag/netloom) (100 commits)
+- [ai-token-exporter](https://github.com/jimyag/ai-token-exporter) (22 commits, [v0.1.2](https://github.com/jimyag/ai-token-exporter/releases/tag/v0.1.2))
+- [Piebald-AI/splitrail](https://github.com/Piebald-AI/splitrail) (6 merged PRs)
+- [kubevirt-dashboard](https://github.com/jimyag/kubevirt-dashboard) (13 commits, [v2.2.0](https://github.com/jimyag/kubevirt-dashboard/releases/tag/v2.2.0))
+- [dotfiles](https://github.com/jimyag/dotfiles) (12 commits)
+- [mcga](https://github.com/jimyag/mcga) (49 commits, [v0.1.1](https://github.com/jimyag/mcga/releases/tag/v0.1.1))
 - [e2b-github-runner](https://github.com/jimyag/e2b-github-runner) (44 commits, [v0.2.0](https://github.com/jimyag/e2b-github-runner/releases/tag/v0.2.0))
-- [ai-token-exporter](https://github.com/jimyag/ai-token-exporter) (21 commits, [v0.1.2](https://github.com/jimyag/ai-token-exporter/releases/tag/v0.1.2))
 - [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn) (1 merged PR)
 - [stark](https://github.com/jimyag/stark) (20 commits)
 - [parquet-tools](https://github.com/jimyag/parquet-tools) (4 commits, [v1.1.2-alpha](https://github.com/jimyag/parquet-tools/releases/tag/v1.1.2-alpha))
@@ -29,5 +29,5 @@ A developer passionate about **Go**, **Rust**, and **Cloud Native**. Currently f
 ---
 
 <sub><!-- UPDATED_START -->
-_Last updated: 2026-06-10 01:07 UTC_
+_Last updated: 2026-06-11 01:08 UTC_
 <!-- UPDATED_END --></sub>
