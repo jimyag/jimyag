@@ -14,20 +14,20 @@ A developer passionate about **Go**, **Rust**, and **Cloud Native**. Currently f
 #### Recent Activity (Last 2 Months)
 
 <!-- ACTIVITY_START -->
-- [netloom](https://github.com/jimyag/netloom) (100 commits)
 - [kubevirt-dashboard](https://github.com/jimyag/kubevirt-dashboard) (13 commits, [v2.2.0](https://github.com/jimyag/kubevirt-dashboard/releases/tag/v2.2.0))
-- [dotfiles](https://github.com/jimyag/dotfiles) (13 commits)
+- [dotfiles](https://github.com/jimyag/dotfiles) (14 commits)
+- [netloom](https://github.com/jimyag/netloom) (100 commits)
 - [ai-token-exporter](https://github.com/jimyag/ai-token-exporter) (22 commits, [v0.1.2](https://github.com/jimyag/ai-token-exporter/releases/tag/v0.1.2))
 - [Piebald-AI/splitrail](https://github.com/Piebald-AI/splitrail) (6 merged PRs)
 - [mcga](https://github.com/jimyag/mcga) (49 commits, [v0.1.1](https://github.com/jimyag/mcga/releases/tag/v0.1.1))
 - [e2b-github-runner](https://github.com/jimyag/e2b-github-runner) (44 commits, [v0.2.0](https://github.com/jimyag/e2b-github-runner/releases/tag/v0.2.0))
 - [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn) (1 merged PR)
-- [stark](https://github.com/jimyag/stark) (7 commits)
+- [stark](https://github.com/jimyag/stark) (6 commits)
 - [parquet-tools](https://github.com/jimyag/parquet-tools) (4 commits, [v1.1.2-alpha](https://github.com/jimyag/parquet-tools/releases/tag/v1.1.2-alpha))
 <!-- ACTIVITY_END -->
 
 ---
 
 <sub><!-- UPDATED_START -->
-_Last updated: 2026-06-16 01:16 UTC_
+_Last updated: 2026-06-17 01:11 UTC_
 <!-- UPDATED_END --></sub>
