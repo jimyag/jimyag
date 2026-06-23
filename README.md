@@ -14,7 +14,7 @@ A developer passionate about **Go**, **Rust**, and **Cloud Native**. Currently f
 #### Recent Activity (Last 2 Months)
 
 <!-- ACTIVITY_START -->
-- [dotfiles](https://github.com/jimyag/dotfiles) (34 commits)
+- [dotfiles](https://github.com/jimyag/dotfiles) (33 commits)
 - [stark](https://github.com/jimyag/stark) (8 commits)
 - [ai-token-exporter](https://github.com/jimyag/ai-token-exporter) (22 commits, [v0.1.3](https://github.com/jimyag/ai-token-exporter/releases/tag/v0.1.3))
 - [netloom](https://github.com/jimyag/netloom) (100 commits)
@@ -29,5 +29,5 @@ A developer passionate about **Go**, **Rust**, and **Cloud Native**. Currently f
 ---
 
 <sub><!-- UPDATED_START -->
-_Last updated: 2026-06-22 01:12 UTC_
+_Last updated: 2026-06-23 01:00 UTC_
 <!-- UPDATED_END --></sub>
