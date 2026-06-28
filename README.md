@@ -14,20 +14,20 @@ A developer passionate about **Go**, **Rust**, and **Cloud Native**. Currently f
 #### Recent Activity (Last 2 Months)
 
 <!-- ACTIVITY_START -->
-- [dotfiles](https://github.com/jimyag/dotfiles) (30 commits)
+- [mcga](https://github.com/jimyag/mcga) (38 commits, [v0.1.1](https://github.com/jimyag/mcga/releases/tag/v0.1.1))
+- [stark](https://github.com/jimyag/stark) (8 commits)
+- [dotfiles](https://github.com/jimyag/dotfiles) (29 commits)
 - [netloom](https://github.com/jimyag/netloom) (100 commits)
 - [qiniu/ci-runner](https://github.com/qiniu/ci-runner) (1 merged PR)
 - [azu/launchd-ui](https://github.com/azu/launchd-ui) (1 merged PR)
-- [stark](https://github.com/jimyag/stark) (7 commits)
 - [ai-token-exporter](https://github.com/jimyag/ai-token-exporter) (22 commits, [v0.1.3](https://github.com/jimyag/ai-token-exporter/releases/tag/v0.1.3))
 - [kubevirt-dashboard](https://github.com/jimyag/kubevirt-dashboard) (13 commits, [v2.2.0](https://github.com/jimyag/kubevirt-dashboard/releases/tag/v2.2.0))
 - [Piebald-AI/splitrail](https://github.com/Piebald-AI/splitrail) (4 merged PRs)
-- [mcga](https://github.com/jimyag/mcga) (37 commits, [v0.1.1](https://github.com/jimyag/mcga/releases/tag/v0.1.1))
 - [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn) (1 merged PR)
 <!-- ACTIVITY_END -->
 
 ---
 
 <sub><!-- UPDATED_START -->
-_Last updated: 2026-06-27 01:01 UTC_
+_Last updated: 2026-06-28 01:05 UTC_
 <!-- UPDATED_END --></sub>
