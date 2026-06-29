@@ -14,7 +14,8 @@ A developer passionate about **Go**, **Rust**, and **Cloud Native**. Currently f
 #### Recent Activity (Last 2 Months)
 
 <!-- ACTIVITY_START -->
-- [mcga](https://github.com/jimyag/mcga) (38 commits, [v0.1.1](https://github.com/jimyag/mcga/releases/tag/v0.1.1))
+- [ip-geolocation-chrome-extension](https://github.com/jimyag/ip-geolocation-chrome-extension) (4 commits, [v0.1.0](https://github.com/jimyag/ip-geolocation-chrome-extension/releases/tag/v0.1.0))
+- [mcga](https://github.com/jimyag/mcga) (36 commits, [v0.1.1](https://github.com/jimyag/mcga/releases/tag/v0.1.1))
 - [stark](https://github.com/jimyag/stark) (8 commits)
 - [dotfiles](https://github.com/jimyag/dotfiles) (29 commits)
 - [netloom](https://github.com/jimyag/netloom) (100 commits)
@@ -23,11 +24,10 @@ A developer passionate about **Go**, **Rust**, and **Cloud Native**. Currently f
 - [ai-token-exporter](https://github.com/jimyag/ai-token-exporter) (22 commits, [v0.1.3](https://github.com/jimyag/ai-token-exporter/releases/tag/v0.1.3))
 - [kubevirt-dashboard](https://github.com/jimyag/kubevirt-dashboard) (13 commits, [v2.2.0](https://github.com/jimyag/kubevirt-dashboard/releases/tag/v2.2.0))
 - [Piebald-AI/splitrail](https://github.com/Piebald-AI/splitrail) (4 merged PRs)
-- [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn) (1 merged PR)
 <!-- ACTIVITY_END -->
 
 ---
 
 <sub><!-- UPDATED_START -->
-_Last updated: 2026-06-28 01:05 UTC_
+_Last updated: 2026-06-29 01:06 UTC_
 <!-- UPDATED_END --></sub>
