@@ -23,11 +23,11 @@ A developer passionate about **Go**, **Rust**, and **Cloud Native**. Currently f
 - [azu/launchd-ui](https://github.com/azu/launchd-ui) (1 merged PR)
 - [ai-token-exporter](https://github.com/jimyag/ai-token-exporter) (22 commits, [v0.1.3](https://github.com/jimyag/ai-token-exporter/releases/tag/v0.1.3))
 - [kubevirt-dashboard](https://github.com/jimyag/kubevirt-dashboard) (13 commits, [v2.2.0](https://github.com/jimyag/kubevirt-dashboard/releases/tag/v2.2.0))
-- [Piebald-AI/splitrail](https://github.com/Piebald-AI/splitrail) (4 merged PRs)
+- [Piebald-AI/splitrail](https://github.com/Piebald-AI/splitrail) (3 merged PRs)
 <!-- ACTIVITY_END -->
 
 ---
 
 <sub><!-- UPDATED_START -->
-_Last updated: 2026-06-29 01:06 UTC_
+_Last updated: 2026-06-30 01:02 UTC_
 <!-- UPDATED_END --></sub>
