@@ -20,14 +20,14 @@ A developer passionate about **Go**, **Rust**, and **Cloud Native**. Currently f
 - [dotfiles](https://github.com/jimyag/dotfiles) (30 commits)
 - [ip-geolocation-chrome-extension](https://github.com/jimyag/ip-geolocation-chrome-extension) (4 commits, [v0.1.0](https://github.com/jimyag/ip-geolocation-chrome-extension/releases/tag/v0.1.0))
 - [mcga](https://github.com/jimyag/mcga) (36 commits, [v0.1.1](https://github.com/jimyag/mcga/releases/tag/v0.1.1))
+- [stark](https://github.com/jimyag/stark) (8 commits)
 - [qiniu/ci-runner](https://github.com/qiniu/ci-runner) (1 merged PR)
 - [azu/launchd-ui](https://github.com/azu/launchd-ui) (1 merged PR)
 - [ai-token-exporter](https://github.com/jimyag/ai-token-exporter) (22 commits, [v0.1.3](https://github.com/jimyag/ai-token-exporter/releases/tag/v0.1.3))
-- [kubevirt-dashboard](https://github.com/jimyag/kubevirt-dashboard) (13 commits, [v2.2.0](https://github.com/jimyag/kubevirt-dashboard/releases/tag/v2.2.0))
 <!-- ACTIVITY_END -->
 
 ---
 
 <sub><!-- UPDATED_START -->
-_Last updated: 2026-07-04 03:30 UTC_
+_Last updated: 2026-07-05 03:47 UTC_
 <!-- UPDATED_END --></sub>
