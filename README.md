@@ -14,10 +14,10 @@ A developer passionate about **Go**, **Rust**, and **Cloud Native**. Currently f
 #### Recent Activity (Last 2 Months)
 
 <!-- ACTIVITY_START -->
+- [dotfiles](https://github.com/jimyag/dotfiles) (30 commits)
 - [netloom](https://github.com/jimyag/netloom) (100 commits)
 - [kubeovn/docs](https://github.com/kubeovn/docs) (1 merged PR)
 - [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn) (2 merged PRs)
-- [dotfiles](https://github.com/jimyag/dotfiles) (30 commits)
 - [ip-geolocation-chrome-extension](https://github.com/jimyag/ip-geolocation-chrome-extension) (4 commits, [v0.1.0](https://github.com/jimyag/ip-geolocation-chrome-extension/releases/tag/v0.1.0))
 - [mcga](https://github.com/jimyag/mcga) (36 commits, [v0.1.1](https://github.com/jimyag/mcga/releases/tag/v0.1.1))
 - [stark](https://github.com/jimyag/stark) (8 commits)
@@ -29,5 +29,5 @@ A developer passionate about **Go**, **Rust**, and **Cloud Native**. Currently f
 ---
 
 <sub><!-- UPDATED_START -->
-_Last updated: 2026-07-05 03:47 UTC_
+_Last updated: 2026-07-06 03:55 UTC_
 <!-- UPDATED_END --></sub>
