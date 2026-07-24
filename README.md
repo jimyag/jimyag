@@ -16,7 +16,7 @@ A developer passionate about **Go**, **Rust**, and **Cloud Native**. Currently f
 <!-- ACTIVITY_START -->
 - [Piebald-AI/splitrail](https://github.com/Piebald-AI/splitrail) (5 merged PRs)
 - [netloom](https://github.com/jimyag/netloom) (100 commits)
-- [dotfiles](https://github.com/jimyag/dotfiles) (30 commits)
+- [dotfiles](https://github.com/jimyag/dotfiles) (27 commits)
 - [kubeovn/docs](https://github.com/kubeovn/docs) (1 merged PR)
 - [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn) (2 merged PRs)
 - [ip-geolocation-chrome-extension](https://github.com/jimyag/ip-geolocation-chrome-extension) (4 commits, [v0.1.0](https://github.com/jimyag/ip-geolocation-chrome-extension/releases/tag/v0.1.0))
@@ -29,5 +29,5 @@ A developer passionate about **Go**, **Rust**, and **Cloud Native**. Currently f
 ---
 
 <sub><!-- UPDATED_START -->
-_Last updated: 2026-07-23 03:15 UTC_
+_Last updated: 2026-07-24 02:54 UTC_
 <!-- UPDATED_END --></sub>
