@@ -14,6 +14,7 @@ A developer passionate about **Go**, **Rust**, and **Cloud Native**. Currently f
 #### Recent Activity (Last 2 Months)
 
 <!-- ACTIVITY_START -->
+- [ai-token-exporter](https://github.com/jimyag/ai-token-exporter) (4 commits, [v0.2.0](https://github.com/jimyag/ai-token-exporter/releases/tag/v0.2.0))
 - [Piebald-AI/splitrail](https://github.com/Piebald-AI/splitrail) (5 merged PRs)
 - [netloom](https://github.com/jimyag/netloom) (100 commits)
 - [dotfiles](https://github.com/jimyag/dotfiles) (27 commits)
@@ -23,11 +24,10 @@ A developer passionate about **Go**, **Rust**, and **Cloud Native**. Currently f
 - [mcga](https://github.com/jimyag/mcga) (33 commits, [v0.1.1](https://github.com/jimyag/mcga/releases/tag/v0.1.1))
 - [stark](https://github.com/jimyag/stark) (6 commits)
 - [qiniu/ci-runner](https://github.com/qiniu/ci-runner) (1 merged PR)
-- [azu/launchd-ui](https://github.com/azu/launchd-ui) (1 merged PR)
 <!-- ACTIVITY_END -->
 
 ---
 
 <sub><!-- UPDATED_START -->
-_Last updated: 2026-07-24 02:54 UTC_
+_Last updated: 2026-07-25 02:54 UTC_
 <!-- UPDATED_END --></sub>
