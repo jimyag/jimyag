@@ -14,6 +14,7 @@ A developer passionate about **Go**, **Rust**, and **Cloud Native**. Currently f
 #### Recent Activity (Last 2 Months)
 
 <!-- ACTIVITY_START -->
+- [jd](https://github.com/jimyag/jd) (1 commits, [v0.2.1](https://github.com/jimyag/jd/releases/tag/v0.2.1))
 - [ai-token-exporter](https://github.com/jimyag/ai-token-exporter) (4 commits, [v0.2.0](https://github.com/jimyag/ai-token-exporter/releases/tag/v0.2.0))
 - [Piebald-AI/splitrail](https://github.com/Piebald-AI/splitrail) (5 merged PRs)
 - [netloom](https://github.com/jimyag/netloom) (100 commits)
@@ -23,11 +24,10 @@ A developer passionate about **Go**, **Rust**, and **Cloud Native**. Currently f
 - [ip-geolocation-chrome-extension](https://github.com/jimyag/ip-geolocation-chrome-extension) (4 commits, [v0.1.0](https://github.com/jimyag/ip-geolocation-chrome-extension/releases/tag/v0.1.0))
 - [mcga](https://github.com/jimyag/mcga) (33 commits, [v0.1.1](https://github.com/jimyag/mcga/releases/tag/v0.1.1))
 - [stark](https://github.com/jimyag/stark) (6 commits)
-- [qiniu/ci-runner](https://github.com/qiniu/ci-runner) (1 merged PR)
 <!-- ACTIVITY_END -->
 
 ---
 
 <sub><!-- UPDATED_START -->
-_Last updated: 2026-07-25 02:54 UTC_
+_Last updated: 2026-07-26 03:20 UTC_
 <!-- UPDATED_END --></sub>
