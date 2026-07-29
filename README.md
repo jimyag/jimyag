@@ -14,20 +14,20 @@ A developer passionate about **Go**, **Rust**, and **Cloud Native**. Currently f
 #### Recent Activity (Last 2 Months)
 
 <!-- ACTIVITY_START -->
-- [ripples](https://github.com/jimyag/ripples) (45 commits, [v0.1.0](https://github.com/jimyag/ripples/releases/tag/v0.1.0))
+- [askshell](https://github.com/jimyag/askshell) (6 commits, [v0.0.1](https://github.com/jimyag/askshell/releases/tag/v0.0.1))
+- [ripples](https://github.com/jimyag/ripples) (63 commits, [v0.2.0](https://github.com/jimyag/ripples/releases/tag/v0.2.0))
+- [mcga](https://github.com/jimyag/mcga) (34 commits, [v0.1.1](https://github.com/jimyag/mcga/releases/tag/v0.1.1))
 - [netloom](https://github.com/jimyag/netloom) (100 commits)
 - [codex-quota-keeper](https://github.com/jimyag/codex-quota-keeper) (13 commits, [v0.0.1](https://github.com/jimyag/codex-quota-keeper/releases/tag/v0.0.1))
 - [Piebald-AI/splitrail](https://github.com/Piebald-AI/splitrail) (7 merged PRs)
 - [commitlens](https://github.com/jimyag/commitlens) (1 commits)
 - [shuffle.fork](https://github.com/jimyag/shuffle.fork) (52 commits)
-- [mcga](https://github.com/jimyag/mcga) (34 commits, [v0.1.1](https://github.com/jimyag/mcga/releases/tag/v0.1.1))
 - [dotfiles](https://github.com/jimyag/dotfiles) (28 commits)
 - [jd](https://github.com/jimyag/jd) (1 commits, [v0.2.1](https://github.com/jimyag/jd/releases/tag/v0.2.1))
-- [ai-token-exporter](https://github.com/jimyag/ai-token-exporter) (4 commits, [v0.2.0](https://github.com/jimyag/ai-token-exporter/releases/tag/v0.2.0))
 <!-- ACTIVITY_END -->
 
 ---
 
 <sub><!-- UPDATED_START -->
-_Last updated: 2026-07-28 02:46 UTC_
+_Last updated: 2026-07-29 02:53 UTC_
 <!-- UPDATED_END --></sub>
