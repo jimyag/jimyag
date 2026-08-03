@@ -14,6 +14,7 @@ A developer passionate about **Go**, **Rust**, and **Cloud Native**. Currently f
 #### Recent Activity (Last 2 Months)
 
 <!-- ACTIVITY_START -->
+- [md2pdf](https://github.com/jimyag/md2pdf) (20 commits, [v0.0.2](https://github.com/jimyag/md2pdf/releases/tag/v0.0.2))
 - [jd](https://github.com/jimyag/jd) (3 commits, [v0.3.0](https://github.com/jimyag/jd/releases/tag/v0.3.0))
 - [Piebald-AI/splitrail](https://github.com/Piebald-AI/splitrail) (10 merged PRs)
 - [shuffle.fork](https://github.com/jimyag/shuffle.fork) (55 commits)
@@ -23,11 +24,10 @@ A developer passionate about **Go**, **Rust**, and **Cloud Native**. Currently f
 - [dotfiles](https://github.com/jimyag/dotfiles) (30 commits)
 - [mcga](https://github.com/jimyag/mcga) (10 commits, [v0.1.1](https://github.com/jimyag/mcga/releases/tag/v0.1.1))
 - [qiniu/ci-runner](https://github.com/qiniu/ci-runner) (2 merged PRs)
-- [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn) (2 merged PRs)
 <!-- ACTIVITY_END -->
 
 ---
 
 <sub><!-- UPDATED_START -->
-_Last updated: 2026-08-02 03:18 UTC_
+_Last updated: 2026-08-03 03:20 UTC_
 <!-- UPDATED_END --></sub>
