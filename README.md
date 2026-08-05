@@ -14,6 +14,7 @@ A developer passionate about **Go**, **Rust**, and **Cloud Native**. Currently f
 #### Recent Activity (Last 2 Months)
 
 <!-- ACTIVITY_START -->
+- [ripples](https://github.com/jimyag/ripples) (66 commits, [v0.2.0](https://github.com/jimyag/ripples/releases/tag/v0.2.0))
 - [md2pdf](https://github.com/jimyag/md2pdf) (20 commits, [v0.0.2](https://github.com/jimyag/md2pdf/releases/tag/v0.0.2))
 - [jd](https://github.com/jimyag/jd) (3 commits, [v0.3.0](https://github.com/jimyag/jd/releases/tag/v0.3.0))
 - [Piebald-AI/splitrail](https://github.com/Piebald-AI/splitrail) (10 merged PRs)
@@ -22,12 +23,11 @@ A developer passionate about **Go**, **Rust**, and **Cloud Native**. Currently f
 - [askshell](https://github.com/jimyag/askshell) (9 commits, [v0.0.1](https://github.com/jimyag/askshell/releases/tag/v0.0.1))
 - [commitlens](https://github.com/jimyag/commitlens) (12 commits, [v0.1.0-rc1](https://github.com/jimyag/commitlens/releases/tag/v0.1.0-rc1))
 - [dotfiles](https://github.com/jimyag/dotfiles) (30 commits)
-- [mcga](https://github.com/jimyag/mcga) (10 commits, [v0.1.1](https://github.com/jimyag/mcga/releases/tag/v0.1.1))
-- [qiniu/ci-runner](https://github.com/qiniu/ci-runner) (2 merged PRs)
+- [mcga](https://github.com/jimyag/mcga) (5 commits, [v0.1.1](https://github.com/jimyag/mcga/releases/tag/v0.1.1))
 <!-- ACTIVITY_END -->
 
 ---
 
 <sub><!-- UPDATED_START -->
-_Last updated: 2026-08-04 02:49 UTC_
+_Last updated: 2026-08-05 02:46 UTC_
 <!-- UPDATED_END --></sub>
