@@ -14,6 +14,8 @@ A developer passionate about **Go**, **Rust**, and **Cloud Native**. Currently f
 #### Recent Activity (Last 2 Months)
 
 <!-- ACTIVITY_START -->
+- [stark](https://github.com/jimyag/stark) (5 commits)
+- [template-repository](https://github.com/jimyag/template-repository) (2 commits, [v0.0.2](https://github.com/jimyag/template-repository/releases/tag/v0.0.2))
 - [ripples](https://github.com/jimyag/ripples) (69 commits, [v0.2.1](https://github.com/jimyag/ripples/releases/tag/v0.2.1))
 - [md2pdf](https://github.com/jimyag/md2pdf) (24 commits, [v0.0.2](https://github.com/jimyag/md2pdf/releases/tag/v0.0.2))
 - [commitlens](https://github.com/jimyag/commitlens) (13 commits, [v0.1.0-rc1](https://github.com/jimyag/commitlens/releases/tag/v0.1.0-rc1))
@@ -21,13 +23,11 @@ A developer passionate about **Go**, **Rust**, and **Cloud Native**. Currently f
 - [jd](https://github.com/jimyag/jd) (3 commits, [v0.3.0](https://github.com/jimyag/jd/releases/tag/v0.3.0))
 - [Piebald-AI/splitrail](https://github.com/Piebald-AI/splitrail) (10 merged PRs)
 - [shuffle.fork](https://github.com/jimyag/shuffle.fork) (55 commits)
-- [template-repository](https://github.com/jimyag/template-repository) (1 commits, [v0.0.2](https://github.com/jimyag/template-repository/releases/tag/v0.0.2))
 - [askshell](https://github.com/jimyag/askshell) (9 commits, [v0.0.1](https://github.com/jimyag/askshell/releases/tag/v0.0.1))
-- [mcga](https://github.com/jimyag/mcga) (4 commits, [v0.1.1](https://github.com/jimyag/mcga/releases/tag/v0.1.1))
 <!-- ACTIVITY_END -->
 
 ---
 
 <sub><!-- UPDATED_START -->
-_Last updated: 2026-08-09 01:58 UTC_
+_Last updated: 2026-08-10 02:03 UTC_
 <!-- UPDATED_END --></sub>
