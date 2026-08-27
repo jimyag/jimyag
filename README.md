@@ -15,19 +15,19 @@ A developer passionate about **Go**, **Rust**, and **Cloud Native**. Currently f
 
 <!-- ACTIVITY_START -->
 - [dotfiles](https://github.com/jimyag/dotfiles) (17 commits)
-- [Piebald-AI/splitrail](https://github.com/Piebald-AI/splitrail) (10 merged PRs)
+- [Piebald-AI/splitrail](https://github.com/Piebald-AI/splitrail) (9 merged PRs)
 - [commitlens](https://github.com/jimyag/commitlens) (14 commits, [v0.1.0-rc1](https://github.com/jimyag/commitlens/releases/tag/v0.1.0-rc1))
 - [jvp](https://github.com/jimyag/jvp) (20 commits, [v1.4.0](https://github.com/jimyag/jvp/releases/tag/v1.4.0))
 - [jd](https://github.com/jimyag/jd) (4 commits, [v0.3.0](https://github.com/jimyag/jd/releases/tag/v0.3.0))
-- [stark](https://github.com/jimyag/stark) (3 commits)
+- [stark](https://github.com/jimyag/stark) (2 commits)
 - [template-repository](https://github.com/jimyag/template-repository) (2 commits, [v0.0.2](https://github.com/jimyag/template-repository/releases/tag/v0.0.2))
 - [ripples](https://github.com/jimyag/ripples) (69 commits, [v0.2.1](https://github.com/jimyag/ripples/releases/tag/v0.2.1))
 - [md2pdf](https://github.com/jimyag/md2pdf) (24 commits, [v0.0.2](https://github.com/jimyag/md2pdf/releases/tag/v0.0.2))
-- [shuffle.fork](https://github.com/jimyag/shuffle.fork) (55 commits)
+- [shuffle.fork](https://github.com/jimyag/shuffle.fork) (50 commits)
 <!-- ACTIVITY_END -->
 
 ---
 
 <sub><!-- UPDATED_START -->
-_Last updated: 2026-08-26 01:34 UTC_
+_Last updated: 2026-08-27 08:21 UTC_
 <!-- UPDATED_END --></sub>
