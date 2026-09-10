@@ -14,6 +14,7 @@ A developer passionate about **Go**, **Rust**, and **Cloud Native**. Currently f
 #### Recent Activity (Last 2 Months)
 
 <!-- ACTIVITY_START -->
+- [ripples](https://github.com/jimyag/ripples) (71 commits, [v0.2.2](https://github.com/jimyag/ripples/releases/tag/v0.2.2))
 - [dotfiles](https://github.com/jimyag/dotfiles) (22 commits)
 - [Piebald-AI/splitrail](https://github.com/Piebald-AI/splitrail) (10 merged PRs)
 - [k8sdev](https://github.com/jimyag/k8sdev) (4 commits)
@@ -22,12 +23,11 @@ A developer passionate about **Go**, **Rust**, and **Cloud Native**. Currently f
 - [jvp](https://github.com/jimyag/jvp) (20 commits, [v1.4.0](https://github.com/jimyag/jvp/releases/tag/v1.4.0))
 - [stark](https://github.com/jimyag/stark) (2 commits)
 - [template-repository](https://github.com/jimyag/template-repository) (2 commits, [v0.0.2](https://github.com/jimyag/template-repository/releases/tag/v0.0.2))
-- [ripples](https://github.com/jimyag/ripples) (69 commits, [v0.2.1](https://github.com/jimyag/ripples/releases/tag/v0.2.1))
 - [md2pdf](https://github.com/jimyag/md2pdf) (24 commits, [v0.0.2](https://github.com/jimyag/md2pdf/releases/tag/v0.0.2))
 <!-- ACTIVITY_END -->
 
 ---
 
 <sub><!-- UPDATED_START -->
-_Last updated: 2026-09-09 03:51 UTC_
+_Last updated: 2026-09-10 03:50 UTC_
 <!-- UPDATED_END --></sub>
