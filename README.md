@@ -14,8 +14,9 @@ A developer passionate about **Go**, **Rust**, and **Cloud Native**. Currently f
 #### Recent Activity (Last 2 Months)
 
 <!-- ACTIVITY_START -->
+- [dotfiles](https://github.com/jimyag/dotfiles) (25 commits)
+- [NVIDIA/k8s-test-infra](https://github.com/NVIDIA/k8s-test-infra) (1 merged PR)
 - [ripples](https://github.com/jimyag/ripples) (71 commits, [v0.2.2](https://github.com/jimyag/ripples/releases/tag/v0.2.2))
-- [dotfiles](https://github.com/jimyag/dotfiles) (22 commits)
 - [Piebald-AI/splitrail](https://github.com/Piebald-AI/splitrail) (10 merged PRs)
 - [k8sdev](https://github.com/jimyag/k8sdev) (4 commits)
 - [jd](https://github.com/jimyag/jd) (6 commits, [v0.3.0](https://github.com/jimyag/jd/releases/tag/v0.3.0))
@@ -23,11 +24,10 @@ A developer passionate about **Go**, **Rust**, and **Cloud Native**. Currently f
 - [jvp](https://github.com/jimyag/jvp) (20 commits, [v1.4.0](https://github.com/jimyag/jvp/releases/tag/v1.4.0))
 - [stark](https://github.com/jimyag/stark) (2 commits)
 - [template-repository](https://github.com/jimyag/template-repository) (2 commits, [v0.0.2](https://github.com/jimyag/template-repository/releases/tag/v0.0.2))
-- [md2pdf](https://github.com/jimyag/md2pdf) (24 commits, [v0.0.2](https://github.com/jimyag/md2pdf/releases/tag/v0.0.2))
 <!-- ACTIVITY_END -->
 
 ---
 
 <sub><!-- UPDATED_START -->
-_Last updated: 2026-09-10 03:50 UTC_
+_Last updated: 2026-09-11 03:47 UTC_
 <!-- UPDATED_END --></sub>
