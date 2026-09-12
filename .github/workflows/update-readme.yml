@@ -2,8 +2,9 @@ name: Update README
 
 on:
   schedule:
-    # Run every day at 00:00 UTC
+    # Run every day at 00:00 in China Standard Time (UTC+8)
     - cron: "0 0 * * *"
+      timezone: "Asia/Shanghai"
   workflow_dispatch: # Allow manual trigger
   push:
     branches:
