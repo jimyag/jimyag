@@ -4,7 +4,7 @@ GitHub Profile README Updater
 
 Automatically fetches GitHub activity data and updates README.md with:
 - Recent activity from your repositories (commits, releases)
-- Open source contributions (merged PRs to other repositories)
+- Open source contributions (merged PRs and direct commits)
 All sorted by recent activity time.
 """
 
@@ -13,6 +13,7 @@ import re
 import json
 import urllib.request
 import urllib.error
+from urllib.parse import quote
 from datetime import datetime, timezone, timedelta
 from typing import Optional
 
@@ -60,8 +61,28 @@ def github_graphql_request(query: str) -> Optional[dict]:
         return None
 
 
+def get_contribution_url(repo: dict) -> str:
+    """Build a link to all of the user's commits in a repository."""
+    repo_url = repo["url"]
+    default_branch_ref = repo.get("defaultBranchRef") or {}
+    default_branch = default_branch_ref.get("name")
+    if default_branch:
+        return f"{repo_url}/commits/{quote(default_branch, safe='/')}/?author={GITHUB_USERNAME}"
+    return f"{repo_url}/commits/?author={GITHUB_USERNAME}"
+
+
+def get_user_commits(repo_name: str, cutoff_iso: str) -> list[dict]:
+    """Get the user's recent commits in a public repository."""
+    commits_url = (
+        f"https://api.github.com/repos/{repo_name}/commits"
+        f"?author={GITHUB_USERNAME}&since={cutoff_iso}&per_page=100"
+    )
+    commits = github_api_request(commits_url)
+    return commits if isinstance(commits, list) else []
+
+
 def get_open_source_contributions(cutoff_iso: str) -> list[dict]:
-    """Get merged PRs to repositories the user doesn't own."""
+    """Get contributions to public repositories the user doesn't own."""
     query = """
     {
       user(login: "%s") {
@@ -70,6 +91,9 @@ def get_open_source_contributions(cutoff_iso: str) -> list[dict]:
             repository {
               nameWithOwner
               url
+              defaultBranchRef {
+                name
+              }
               isPrivate
               owner {
                 login
@@ -86,6 +110,19 @@ def get_open_source_contributions(cutoff_iso: str) -> list[dict]:
               }
             }
           }
+          commitContributionsByRepository(maxRepositories: 50) {
+            repository {
+              nameWithOwner
+              url
+              defaultBranchRef {
+                name
+              }
+              isPrivate
+              owner {
+                login
+              }
+            }
+          }
         }
       }
     }
@@ -97,9 +134,19 @@ def get_open_source_contributions(cutoff_iso: str) -> list[dict]:
 
     contributions = []
     pr_repos = result["data"]["user"]["contributionsCollection"]["pullRequestContributionsByRepository"]
+    commit_repos = result["data"]["user"]["contributionsCollection"]["commitContributionsByRepository"]
 
+    repositories = {}
+    pr_contributions = {}
     for repo_contribution in pr_repos:
         repo = repo_contribution["repository"]
+        repositories[repo["nameWithOwner"]] = repo
+        pr_contributions[repo["nameWithOwner"]] = repo_contribution
+    for repo_contribution in commit_repos:
+        repo = repo_contribution["repository"]
+        repositories.setdefault(repo["nameWithOwner"], repo)
+
+    for repo_name, repo in repositories.items():
 
         # Skip private repos and user's own repos
         if repo["isPrivate"]:
@@ -109,6 +156,27 @@ def get_open_source_contributions(cutoff_iso: str) -> list[dict]:
         # Skip repos with hash-like names (likely test/private repos)
         owner_name = repo["owner"]["login"]
         if len(owner_name) > 30 and all(c in "0123456789abcdef" for c in owner_name.lower()):
+            continue
+
+        repo_contribution = pr_contributions.get(repo_name)
+        if not repo_contribution:
+            commits = get_user_commits(repo_name, cutoff_iso)
+            recent_commits = [
+                commit
+                for commit in commits
+                if commit.get("commit", {}).get("author", {}).get("date", "") >= cutoff_iso
+            ]
+            if not recent_commits:
+                continue
+
+            latest_commit = recent_commits[0]
+            contributions.append({
+                "type": "contribution",
+                "name": repo_name,
+                "url": get_contribution_url(repo),
+                "commit_count": len(recent_commits),
+                "latest_activity": latest_commit["commit"]["author"]["date"],
+            })
             continue
 
         merged_prs = [
@@ -125,8 +193,8 @@ def get_open_source_contributions(cutoff_iso: str) -> list[dict]:
 
             contributions.append({
                 "type": "contribution",
-                "name": repo["nameWithOwner"],
-                "url": repo["url"],
+                "name": repo_name,
+                "url": get_contribution_url(repo),
                 "pr_count": len(merged_prs),
                 "latest_activity": latest_pr["mergedAt"],
             })
@@ -155,7 +223,7 @@ def get_own_repos_activity(cutoff_iso: str) -> list[dict]:
         if not pushed_at or pushed_at < cutoff_iso:
             continue
 
-        # Get commit count in the last 2 months using commits API
+        # Get commit count in the last 180 days using commits API
         commits_url = f"https://api.github.com/repos/{repo['full_name']}/commits?since={cutoff_iso}&per_page=100"
         commits = github_api_request(commits_url)
         commit_count = len(commits) if commits else 0
@@ -201,9 +269,9 @@ def get_own_repos_activity(cutoff_iso: str) -> list[dict]:
     return recent_repos
 
 
-def get_all_activity(months: int = 2, limit: int = 10) -> list[dict]:
+def get_all_activity(days: int = 180, limit: int = 20) -> list[dict]:
     """Get all recent activity (own repos + contributions) sorted by time."""
-    cutoff_date = datetime.now(timezone.utc) - timedelta(days=months * 30)
+    cutoff_date = datetime.now(timezone.utc) - timedelta(days=days)
     cutoff_iso = cutoff_date.strftime("%Y-%m-%dT%H:%M:%SZ")
 
     # Get both types of activity
@@ -237,8 +305,17 @@ def generate_activity_markdown(activities: list[dict]) -> str:
                 line += f" ({', '.join(stats)})"
         else:
             # Open source contribution
-            pr_text = "PR" if item["pr_count"] == 1 else "PRs"
-            line = f"- [{item['name']}]({item['url']}) ({item['pr_count']} merged {pr_text})"
+            stats = []
+            if item.get("pr_count", 0) > 0:
+                pr_text = "PR" if item["pr_count"] == 1 else "PRs"
+                stats.append(f"{item['pr_count']} merged {pr_text}")
+            if item.get("commit_count", 0) > 0:
+                commit_text = "commit" if item["commit_count"] == 1 else "commits"
+                stats.append(f"{item['commit_count']} {commit_text}")
+
+            line = f"- [{item['name']}]({item['url']})"
+            if stats:
+                line += f" ({', '.join(stats)})"
 
         lines.append(line)
 
@@ -268,7 +345,7 @@ def main():
     print("Fetching GitHub data...")
 
     print("  - Getting all recent activity...")
-    activity = get_all_activity(months=2, limit=10)
+    activity = get_all_activity(days=180, limit=20)
     print(f"    Found {len(activity)} activities")
 
     # Generate markdown
