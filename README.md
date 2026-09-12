@@ -2,21 +2,22 @@
 
 Welcome to my repositories. Hope you can enjoy everything here.
 
-A developer passionate about **Go**, **Rust**, and **Cloud Native**. I build
-cloud-native platforms and developer tools, with experience across
-Kubernetes-based virtualization, multi-tenant networking, AI sandboxes, and
+A developer passionate about **Go**, **Rust**, and **Cloud Native**.
+
+I build cloud-native platforms and developer tools, with experience across<br>
+Kubernetes-based virtualization, multi-tenant networking, AI sandboxes, and<br>
 storage/data infrastructure.
 
-I enjoy owning systems end to end—from architecture and core implementation to
-integration testing, production operations, and performance optimization—with a
+I enjoy owning systems end to end—from architecture and core implementation to<br>
+integration testing, production operations, and performance optimization—with a<br>
 focus on reliable and maintainable software.
 
 #### What I Work On
 
-- Cloud-native infrastructure and Kubernetes
-- Virtualization and networking
-- Developer tools with Go and Rust
-- Automation, reliability, and open-source engineering
+- Cloud platforms and Kubernetes
+- Virtual machines and sandboxes: KubeVirt and Firecracker
+- Networks, resource allocation, and tenant isolation
+- Storage systems, data platforms, and developer tools
 
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
