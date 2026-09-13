@@ -29,14 +29,14 @@ focus on reliable and maintainable software.
 #### Recent Activity (Last 180 Days)
 
 <!-- ACTIVITY_START -->
+- [k8sdev](https://github.com/jimyag/k8sdev) (13 commits)
+- [stark](https://github.com/jimyag/stark) (36 commits)
 - [jd](https://github.com/jimyag/jd) (50 commits, [v0.3.0](https://github.com/jimyag/jd/releases/tag/v0.3.0))
-- [stark](https://github.com/jimyag/stark) (35 commits)
 - [Piebald-AI/splitrail](https://github.com/Piebald-AI/splitrail/commits/main/?author=jimyag) (9 merged PRs)
 - [qiniu/kube-ovn](https://github.com/qiniu/kube-ovn/commits/master/?author=jimyag) (1 merged PR)
 - [dotfiles](https://github.com/jimyag/dotfiles) (66 commits)
 - [NVIDIA/k8s-test-infra](https://github.com/NVIDIA/k8s-test-infra/commits/main/?author=jimyag) (1 merged PR)
 - [ripples](https://github.com/jimyag/ripples) (72 commits, [v0.2.2](https://github.com/jimyag/ripples/releases/tag/v0.2.2))
-- [k8sdev](https://github.com/jimyag/k8sdev) (4 commits)
 - [commitlens](https://github.com/jimyag/commitlens) (72 commits, [v0.1.0-rc1](https://github.com/jimyag/commitlens/releases/tag/v0.1.0-rc1))
 - [jvp](https://github.com/jimyag/jvp) (20 commits, [v1.4.0](https://github.com/jimyag/jvp/releases/tag/v1.4.0))
 - [template-repository](https://github.com/jimyag/template-repository) (8 commits, [v0.0.2](https://github.com/jimyag/template-repository/releases/tag/v0.0.2))
@@ -46,7 +46,7 @@ focus on reliable and maintainable software.
 - [mcga](https://github.com/jimyag/mcga) (54 commits, [v0.1.1](https://github.com/jimyag/mcga/releases/tag/v0.1.1))
 - [qiniu/ci-runner](https://github.com/qiniu/ci-runner/commits/main/?author=jimyag) (2 merged PRs)
 - [jimmicro/pprof](https://github.com/jimmicro/pprof/commits/main/?author=jimyag) (8 commits)
-- [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn/commits/master/?author=jimyag) (5 merged PRs)
+- [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn/commits/master/?author=jimyag) (4 merged PRs)
 - [netloom](https://github.com/jimyag/netloom) (100 commits)
 - [codex-quota-keeper](https://github.com/jimyag/codex-quota-keeper) (13 commits, [v0.0.1](https://github.com/jimyag/codex-quota-keeper/releases/tag/v0.0.1))
 <!-- ACTIVITY_END -->
@@ -54,5 +54,5 @@ focus on reliable and maintainable software.
 ---
 
 <sub><!-- UPDATED_START -->
-_Last updated: 2026-09-12 20:00 UTC_
+_Last updated: 2026-09-13 18:41 UTC_
 <!-- UPDATED_END --></sub>
