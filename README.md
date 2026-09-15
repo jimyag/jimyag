@@ -29,6 +29,7 @@ focus on reliable and maintainable software.
 #### Recent Activity (Last 180 Days)
 
 <!-- ACTIVITY_START -->
+- [gpustack/gpustack](https://github.com/gpustack/gpustack/commits/main/?author=jimyag) (1 merged PR)
 - [k8sdev](https://github.com/jimyag/k8sdev) (17 commits)
 - [stark](https://github.com/jimyag/stark) (36 commits)
 - [jd](https://github.com/jimyag/jd) (50 commits, [v0.3.0](https://github.com/jimyag/jd/releases/tag/v0.3.0))
@@ -48,11 +49,10 @@ focus on reliable and maintainable software.
 - [jimmicro/pprof](https://github.com/jimmicro/pprof/commits/main/?author=jimyag) (8 commits)
 - [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn/commits/master/?author=jimyag) (4 merged PRs)
 - [netloom](https://github.com/jimyag/netloom) (100 commits)
-- [codex-quota-keeper](https://github.com/jimyag/codex-quota-keeper) (13 commits, [v0.0.1](https://github.com/jimyag/codex-quota-keeper/releases/tag/v0.0.1))
 <!-- ACTIVITY_END -->
 
 ---
 
 <sub><!-- UPDATED_START -->
-_Last updated: 2026-09-14 20:15 UTC_
+_Last updated: 2026-09-15 19:38 UTC_
 <!-- UPDATED_END --></sub>
