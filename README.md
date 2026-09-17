@@ -29,6 +29,7 @@ focus on reliable and maintainable software.
 #### Recent Activity (Last 180 Days)
 
 <!-- ACTIVITY_START -->
+- [qiniu/kubevirt](https://github.com/qiniu/kubevirt/commits/main/?author=jimyag) (2 merged PRs)
 - [dotfiles](https://github.com/jimyag/dotfiles) (67 commits)
 - [containers](https://github.com/jimyag/containers) (2 commits, [2026-09-16-13-15-03](https://github.com/jimyag/containers/releases/tag/2026-09-16-13-15-03))
 - [k8sdev](https://github.com/jimyag/k8sdev) (21 commits)
@@ -48,11 +49,10 @@ focus on reliable and maintainable software.
 - [mcga](https://github.com/jimyag/mcga) (54 commits, [v0.1.1](https://github.com/jimyag/mcga/releases/tag/v0.1.1))
 - [qiniu/ci-runner](https://github.com/qiniu/ci-runner/commits/main/?author=jimyag) (2 merged PRs)
 - [jimmicro/pprof](https://github.com/jimmicro/pprof/commits/main/?author=jimyag) (8 commits)
-- [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn/commits/master/?author=jimyag) (4 merged PRs)
 <!-- ACTIVITY_END -->
 
 ---
 
 <sub><!-- UPDATED_START -->
-_Last updated: 2026-09-16 19:29 UTC_
+_Last updated: 2026-09-17 19:39 UTC_
 <!-- UPDATED_END --></sub>
