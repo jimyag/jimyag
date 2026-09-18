@@ -29,15 +29,17 @@ focus on reliable and maintainable software.
 #### Recent Activity (Last 180 Days)
 
 <!-- ACTIVITY_START -->
-- [qiniu/kubevirt](https://github.com/qiniu/kubevirt/commits/main/?author=jimyag) (2 merged PRs)
-- [dotfiles](https://github.com/jimyag/dotfiles) (67 commits)
+- [k8sdev](https://github.com/jimyag/k8sdev) (22 commits)
+- [fox-gonic/fox](https://github.com/fox-gonic/fox/commits/main/?author=jimyag) (4 merged PRs)
+- [dotfiles](https://github.com/jimyag/dotfiles) (69 commits)
+- [qiniu/kube-ovn](https://github.com/qiniu/kube-ovn/commits/master/?author=jimyag) (6 merged PRs)
+- [qiniu/cilium](https://github.com/qiniu/cilium/commits/7niu-v1.19.4/?author=jimyag) (3 merged PRs)
+- [qiniu/kubevirt](https://github.com/qiniu/kubevirt/commits/main/?author=jimyag) (4 merged PRs)
 - [containers](https://github.com/jimyag/containers) (2 commits, [2026-09-16-13-15-03](https://github.com/jimyag/containers/releases/tag/2026-09-16-13-15-03))
-- [k8sdev](https://github.com/jimyag/k8sdev) (21 commits)
 - [gpustack/gpustack](https://github.com/gpustack/gpustack/commits/main/?author=jimyag) (1 merged PR)
 - [stark](https://github.com/jimyag/stark) (36 commits)
 - [jd](https://github.com/jimyag/jd) (50 commits, [v0.3.0](https://github.com/jimyag/jd/releases/tag/v0.3.0))
 - [Piebald-AI/splitrail](https://github.com/Piebald-AI/splitrail/commits/main/?author=jimyag) (9 merged PRs)
-- [qiniu/kube-ovn](https://github.com/qiniu/kube-ovn/commits/master/?author=jimyag) (1 merged PR)
 - [NVIDIA/k8s-test-infra](https://github.com/NVIDIA/k8s-test-infra/commits/main/?author=jimyag) (1 merged PR)
 - [ripples](https://github.com/jimyag/ripples) (72 commits, [v0.2.2](https://github.com/jimyag/ripples/releases/tag/v0.2.2))
 - [commitlens](https://github.com/jimyag/commitlens) (72 commits, [v0.1.0-rc1](https://github.com/jimyag/commitlens/releases/tag/v0.1.0-rc1))
@@ -47,12 +49,10 @@ focus on reliable and maintainable software.
 - [shuffle.fork](https://github.com/jimyag/shuffle.fork) (55 commits)
 - [askshell](https://github.com/jimyag/askshell) (9 commits, [v0.0.1](https://github.com/jimyag/askshell/releases/tag/v0.0.1))
 - [mcga](https://github.com/jimyag/mcga) (54 commits, [v0.1.1](https://github.com/jimyag/mcga/releases/tag/v0.1.1))
-- [qiniu/ci-runner](https://github.com/qiniu/ci-runner/commits/main/?author=jimyag) (2 merged PRs)
-- [jimmicro/pprof](https://github.com/jimmicro/pprof/commits/main/?author=jimyag) (8 commits)
 <!-- ACTIVITY_END -->
 
 ---
 
 <sub><!-- UPDATED_START -->
-_Last updated: 2026-09-17 19:39 UTC_
+_Last updated: 2026-09-18 18:58 UTC_
 <!-- UPDATED_END --></sub>
