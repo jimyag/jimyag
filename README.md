@@ -31,7 +31,7 @@ focus on reliable and maintainable software.
 <!-- ACTIVITY_START -->
 - [qiniu/kube-ovn](https://github.com/qiniu/kube-ovn/commits/master/?author=jimyag) (7 merged PRs)
 - [ripples](https://github.com/jimyag/ripples) (73 commits, [v0.2.3](https://github.com/jimyag/ripples/releases/tag/v0.2.3))
-- [Piebald-AI/splitrail](https://github.com/Piebald-AI/splitrail/commits/main/?author=jimyag) (9 merged PRs)
+- [Piebald-AI/splitrail](https://github.com/Piebald-AI/splitrail/commits/main/?author=jimyag) (8 merged PRs)
 - [dotfiles](https://github.com/jimyag/dotfiles) (78 commits)
 - [k8sdev](https://github.com/jimyag/k8sdev) (26 commits)
 - [qiniu/kubevirt](https://github.com/qiniu/kubevirt/commits/main/?author=jimyag) (5 merged PRs)
@@ -54,5 +54,5 @@ focus on reliable and maintainable software.
 ---
 
 <sub><!-- UPDATED_START -->
-_Last updated: 2026-09-22 19:40 UTC_
+_Last updated: 2026-09-23 19:36 UTC_
 <!-- UPDATED_END --></sub>
