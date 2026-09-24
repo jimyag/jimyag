@@ -29,9 +29,11 @@ focus on reliable and maintainable software.
 #### Recent Activity (Last 180 Days)
 
 <!-- ACTIVITY_START -->
+- [socktrail](https://github.com/jimyag/socktrail) (20 commits, [v0.0.1](https://github.com/jimyag/socktrail/releases/tag/v0.0.1))
+- [ai-token-exporter](https://github.com/jimyag/ai-token-exporter) (26 commits, [v0.2.1](https://github.com/jimyag/ai-token-exporter/releases/tag/v0.2.1))
+- [Piebald-AI/splitrail](https://github.com/Piebald-AI/splitrail/commits/main/?author=jimyag) (9 merged PRs)
 - [qiniu/kube-ovn](https://github.com/qiniu/kube-ovn/commits/master/?author=jimyag) (7 merged PRs)
 - [ripples](https://github.com/jimyag/ripples) (73 commits, [v0.2.3](https://github.com/jimyag/ripples/releases/tag/v0.2.3))
-- [Piebald-AI/splitrail](https://github.com/Piebald-AI/splitrail/commits/main/?author=jimyag) (8 merged PRs)
 - [dotfiles](https://github.com/jimyag/dotfiles) (78 commits)
 - [k8sdev](https://github.com/jimyag/k8sdev) (26 commits)
 - [qiniu/kubevirt](https://github.com/qiniu/kubevirt/commits/main/?author=jimyag) (5 merged PRs)
@@ -47,12 +49,10 @@ focus on reliable and maintainable software.
 - [template-repository](https://github.com/jimyag/template-repository) (8 commits, [v0.0.2](https://github.com/jimyag/template-repository/releases/tag/v0.0.2))
 - [md2pdf](https://github.com/jimyag/md2pdf) (24 commits, [v0.0.2](https://github.com/jimyag/md2pdf/releases/tag/v0.0.2))
 - [shuffle.fork](https://github.com/jimyag/shuffle.fork) (55 commits)
-- [askshell](https://github.com/jimyag/askshell) (9 commits, [v0.0.1](https://github.com/jimyag/askshell/releases/tag/v0.0.1))
-- [mcga](https://github.com/jimyag/mcga) (54 commits, [v0.1.1](https://github.com/jimyag/mcga/releases/tag/v0.1.1))
 <!-- ACTIVITY_END -->
 
 ---
 
 <sub><!-- UPDATED_START -->
-_Last updated: 2026-09-23 19:36 UTC_
+_Last updated: 2026-09-24 19:55 UTC_
 <!-- UPDATED_END --></sub>
