@@ -29,15 +29,15 @@ focus on reliable and maintainable software.
 #### Recent Activity (Last 180 Days)
 
 <!-- ACTIVITY_START -->
-- [template-repository](https://github.com/jimyag/template-repository) (9 commits, [v0.0.2](https://github.com/jimyag/template-repository/releases/tag/v0.0.2))
+- [jd](https://github.com/jimyag/jd) (15 commits, [v0.3.0](https://github.com/jimyag/jd/releases/tag/v0.3.0))
+- [ripples](https://github.com/jimyag/ripples) (76 commits, [v0.2.3](https://github.com/jimyag/ripples/releases/tag/v0.2.3))
+- [template-repository](https://github.com/jimyag/template-repository) (10 commits, [v0.0.2](https://github.com/jimyag/template-repository/releases/tag/v0.0.2))
 - [socktrail](https://github.com/jimyag/socktrail) (60 commits, [v0.1.0](https://github.com/jimyag/socktrail/releases/tag/v0.1.0))
-- [jd](https://github.com/jimyag/jd) (14 commits, [v0.3.0](https://github.com/jimyag/jd/releases/tag/v0.3.0))
 - [yetone/magpie](https://github.com/yetone/magpie/commits/main/?author=jimyag) (3 merged PRs)
 - [dotfiles](https://github.com/jimyag/dotfiles) (80 commits)
 - [ai-token-exporter](https://github.com/jimyag/ai-token-exporter) (26 commits, [v0.2.1](https://github.com/jimyag/ai-token-exporter/releases/tag/v0.2.1))
 - [Piebald-AI/splitrail](https://github.com/Piebald-AI/splitrail/commits/main/?author=jimyag) (9 merged PRs)
 - [qiniu/kube-ovn](https://github.com/qiniu/kube-ovn/commits/master/?author=jimyag) (7 merged PRs)
-- [ripples](https://github.com/jimyag/ripples) (73 commits, [v0.2.3](https://github.com/jimyag/ripples/releases/tag/v0.2.3))
 - [k8sdev](https://github.com/jimyag/k8sdev) (26 commits)
 - [qiniu/kubevirt](https://github.com/qiniu/kubevirt/commits/main/?author=jimyag) (5 merged PRs)
 - [jvp](https://github.com/jimyag/jvp) (27 commits, [v1.4.0](https://github.com/jimyag/jvp/releases/tag/v1.4.0))
@@ -54,5 +54,5 @@ focus on reliable and maintainable software.
 ---
 
 <sub><!-- UPDATED_START -->
-_Last updated: 2026-09-25 19:57 UTC_
+_Last updated: 2026-09-26 19:09 UTC_
 <!-- UPDATED_END --></sub>
