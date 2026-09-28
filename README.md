@@ -29,6 +29,11 @@ focus on reliable and maintainable software.
 #### Recent Activity (Last 180 Days)
 
 <!-- ACTIVITY_START -->
+- [ripples](https://github.com/jimyag/ripples) (85 commits, [v0.3.1](https://github.com/jimyag/ripples/releases/tag/v0.3.1))
+- [ripples-action](https://github.com/jimyag/ripples-action) (2 commits)
+- [dotfiles](https://github.com/jimyag/dotfiles) (83 commits)
+- [jimmicro/singleflight](https://github.com/jimmicro/singleflight/commits/main/?author=jimyag) (1 commit)
+- [jimmicro/argo](https://github.com/jimmicro/argo/commits/main/?author=jimyag) (1 commit)
 - [jimmicro/grace](https://github.com/jimmicro/grace/commits/main/?author=jimyag) (1 commit)
 - [jimmicro/version](https://github.com/jimmicro/version/commits/main/?author=jimyag) (3 commits)
 - [jimmicro/.github](https://github.com/jimmicro/.github/commits/main/?author=jimyag) (2 commits)
@@ -41,18 +46,13 @@ focus on reliable and maintainable software.
 - [socktrail](https://github.com/jimyag/socktrail) (61 commits, [v0.1.0](https://github.com/jimyag/socktrail/releases/tag/v0.1.0))
 - [template-repository](https://github.com/jimyag/template-repository) (11 commits, [v0.0.2](https://github.com/jimyag/template-repository/releases/tag/v0.0.2))
 - [jd](https://github.com/jimyag/jd) (16 commits, [v0.3.0](https://github.com/jimyag/jd/releases/tag/v0.3.0))
-- [dotfiles](https://github.com/jimyag/dotfiles) (82 commits)
-- [ripples](https://github.com/jimyag/ripples) (83 commits, [v0.3.0](https://github.com/jimyag/ripples/releases/tag/v0.3.0))
 - [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn/commits/master/?author=jimyag) (5 merged PRs)
 - [yetone/magpie](https://github.com/yetone/magpie/commits/main/?author=jimyag) (3 merged PRs)
 - [Piebald-AI/splitrail](https://github.com/Piebald-AI/splitrail/commits/main/?author=jimyag) (9 merged PRs)
-- [qiniu/kube-ovn](https://github.com/qiniu/kube-ovn/commits/master/?author=jimyag) (7 merged PRs)
-- [qiniu/kubevirt](https://github.com/qiniu/kubevirt/commits/main/?author=jimyag) (5 merged PRs)
-- [fox-gonic/fox](https://github.com/fox-gonic/fox/commits/main/?author=jimyag) (4 merged PRs)
 <!-- ACTIVITY_END -->
 
 ---
 
 <sub><!-- UPDATED_START -->
-_Last updated: 2026-09-27 19:41 UTC_
+_Last updated: 2026-09-28 21:47 UTC_
 <!-- UPDATED_END --></sub>
