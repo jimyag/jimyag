@@ -1,7 +1,5 @@
 ### Hi, I'm jimyag <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 
-[![Check](https://github.com/jimyag/jimyag/actions/workflows/check.yaml/badge.svg)](https://github.com/jimyag/jimyag/actions/workflows/check.yaml)
-
 Welcome to my repositories. Hope you can enjoy everything here.
 
 A developer passionate about **Go**, **Rust**, and **Cloud Native**.
