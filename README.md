@@ -29,9 +29,10 @@ focus on reliable and maintainable software.
 #### Recent Activity (Last 180 Days)
 
 <!-- ACTIVITY_START -->
+- [mcga](https://github.com/jimyag/mcga) (62 commits, [v0.1.7](https://github.com/jimyag/mcga/releases/tag/v0.1.7))
+- [dotfiles](https://github.com/jimyag/dotfiles) (86 commits)
 - [ripples](https://github.com/jimyag/ripples) (85 commits, [v0.3.1](https://github.com/jimyag/ripples/releases/tag/v0.3.1))
 - [ripples-action](https://github.com/jimyag/ripples-action) (2 commits)
-- [dotfiles](https://github.com/jimyag/dotfiles) (83 commits)
 - [jimmicro/singleflight](https://github.com/jimmicro/singleflight/commits/main/?author=jimyag) (1 commit)
 - [jimmicro/argo](https://github.com/jimmicro/argo/commits/main/?author=jimyag) (1 commit)
 - [jimmicro/grace](https://github.com/jimmicro/grace/commits/main/?author=jimyag) (1 commit)
@@ -48,11 +49,10 @@ focus on reliable and maintainable software.
 - [jd](https://github.com/jimyag/jd) (16 commits, [v0.3.0](https://github.com/jimyag/jd/releases/tag/v0.3.0))
 - [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn/commits/master/?author=jimyag) (5 merged PRs)
 - [yetone/magpie](https://github.com/yetone/magpie/commits/main/?author=jimyag) (3 merged PRs)
-- [Piebald-AI/splitrail](https://github.com/Piebald-AI/splitrail/commits/main/?author=jimyag) (9 merged PRs)
 <!-- ACTIVITY_END -->
 
 ---
 
 <sub><!-- UPDATED_START -->
-_Last updated: 2026-09-28 21:47 UTC_
+_Last updated: 2026-09-29 20:38 UTC_
 <!-- UPDATED_END --></sub>
