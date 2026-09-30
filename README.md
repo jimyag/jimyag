@@ -29,10 +29,14 @@ focus on reliable and maintainable software.
 #### Recent Activity (Last 180 Days)
 
 <!-- ACTIVITY_START -->
-- [mcga](https://github.com/jimyag/mcga) (62 commits, [v0.1.7](https://github.com/jimyag/mcga/releases/tag/v0.1.7))
-- [dotfiles](https://github.com/jimyag/dotfiles) (86 commits)
-- [ripples](https://github.com/jimyag/ripples) (85 commits, [v0.3.1](https://github.com/jimyag/ripples/releases/tag/v0.3.1))
-- [ripples-action](https://github.com/jimyag/ripples-action) (2 commits)
+- [gitwiki](https://github.com/jimyag/gitwiki) (15 commits)
+- [ripples](https://github.com/jimyag/ripples) (86 commits, [v0.3.1](https://github.com/jimyag/ripples/releases/tag/v0.3.1))
+- [ripples-action](https://github.com/jimyag/ripples-action) (4 commits, [v0.1.0](https://github.com/jimyag/ripples-action/releases/tag/v0.1.0))
+- [k8sdev](https://github.com/jimyag/k8sdev) (29 commits)
+- [stark](https://github.com/jimyag/stark) (42 commits)
+- [gpustack/gpustack](https://github.com/gpustack/gpustack/commits/main/?author=jimyag) (2 merged PRs)
+- [mcga](https://github.com/jimyag/mcga) (67 commits, [v0.1.9](https://github.com/jimyag/mcga/releases/tag/v0.1.9))
+- [dotfiles](https://github.com/jimyag/dotfiles) (87 commits)
 - [jimmicro/singleflight](https://github.com/jimmicro/singleflight/commits/main/?author=jimyag) (1 commit)
 - [jimmicro/argo](https://github.com/jimmicro/argo/commits/main/?author=jimyag) (1 commit)
 - [jimmicro/grace](https://github.com/jimmicro/grace/commits/main/?author=jimyag) (1 commit)
@@ -40,19 +44,15 @@ focus on reliable and maintainable software.
 - [jimmicro/.github](https://github.com/jimmicro/.github/commits/main/?author=jimyag) (2 commits)
 - [jimmicro/pprof](https://github.com/jimmicro/pprof/commits/main/?author=jimyag) (9 commits)
 - [containers](https://github.com/jimyag/containers) (3 commits, [2026-09-16-13-15-03](https://github.com/jimyag/containers/releases/tag/2026-09-16-13-15-03))
-- [stark](https://github.com/jimyag/stark) (39 commits)
 - [jvp](https://github.com/jimyag/jvp) (28 commits, [v1.4.0](https://github.com/jimyag/jvp/releases/tag/v1.4.0))
-- [k8sdev](https://github.com/jimyag/k8sdev) (27 commits)
 - [ai-token-exporter](https://github.com/jimyag/ai-token-exporter) (27 commits, [v0.2.1](https://github.com/jimyag/ai-token-exporter/releases/tag/v0.2.1))
 - [socktrail](https://github.com/jimyag/socktrail) (61 commits, [v0.1.0](https://github.com/jimyag/socktrail/releases/tag/v0.1.0))
 - [template-repository](https://github.com/jimyag/template-repository) (11 commits, [v0.0.2](https://github.com/jimyag/template-repository/releases/tag/v0.0.2))
 - [jd](https://github.com/jimyag/jd) (16 commits, [v0.3.0](https://github.com/jimyag/jd/releases/tag/v0.3.0))
-- [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn/commits/master/?author=jimyag) (5 merged PRs)
-- [yetone/magpie](https://github.com/yetone/magpie/commits/main/?author=jimyag) (3 merged PRs)
 <!-- ACTIVITY_END -->
 
 ---
 
 <sub><!-- UPDATED_START -->
-_Last updated: 2026-09-29 20:38 UTC_
+_Last updated: 2026-09-30 20:42 UTC_
 <!-- UPDATED_END --></sub>
