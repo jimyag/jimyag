@@ -37,7 +37,7 @@ focus on reliable and maintainable software.
 - [k8sdev](https://github.com/jimyag/k8sdev) (29 commits)
 - [stark](https://github.com/jimyag/stark) (42 commits)
 - [gpustack/gpustack](https://github.com/gpustack/gpustack/commits/main/?author=jimyag) (2 merged PRs)
-- [mcga](https://github.com/jimyag/mcga) (67 commits, [v0.1.9](https://github.com/jimyag/mcga/releases/tag/v0.1.9))
+- [mcga](https://github.com/jimyag/mcga) (66 commits, [v0.1.9](https://github.com/jimyag/mcga/releases/tag/v0.1.9))
 - [jimmicro/singleflight](https://github.com/jimmicro/singleflight/commits/main/?author=jimyag) (1 commit)
 - [jimmicro/argo](https://github.com/jimmicro/argo/commits/main/?author=jimyag) (1 commit)
 - [jimmicro/grace](https://github.com/jimmicro/grace/commits/main/?author=jimyag) (1 commit)
@@ -54,5 +54,5 @@ focus on reliable and maintainable software.
 ---
 
 <sub><!-- UPDATED_START -->
-_Last updated: 2026-10-02 20:35 UTC_
+_Last updated: 2026-10-03 19:08 UTC_
 <!-- UPDATED_END --></sub>
