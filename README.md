@@ -29,9 +29,10 @@ focus on reliable and maintainable software.
 #### Recent Activity (Last 180 Days)
 
 <!-- ACTIVITY_START -->
+- [socktrail](https://github.com/jimyag/socktrail) (63 commits, [v0.1.2](https://github.com/jimyag/socktrail/releases/tag/v0.1.2))
+- [Piebald-AI/splitrail](https://github.com/Piebald-AI/splitrail/commits/main/?author=jimyag) (10 merged PRs)
 - [dotfiles](https://github.com/jimyag/dotfiles) (90 commits)
 - [gitwiki](https://github.com/jimyag/gitwiki) (20 commits)
-- [socktrail](https://github.com/jimyag/socktrail) (62 commits, [v0.1.1](https://github.com/jimyag/socktrail/releases/tag/v0.1.1))
 - [ripples](https://github.com/jimyag/ripples) (86 commits, [v0.3.1](https://github.com/jimyag/ripples/releases/tag/v0.3.1))
 - [ripples-action](https://github.com/jimyag/ripples-action) (4 commits, [v0.1.0](https://github.com/jimyag/ripples-action/releases/tag/v0.1.0))
 - [k8sdev](https://github.com/jimyag/k8sdev) (29 commits)
@@ -48,11 +49,10 @@ focus on reliable and maintainable software.
 - [jvp](https://github.com/jimyag/jvp) (28 commits, [v1.4.0](https://github.com/jimyag/jvp/releases/tag/v1.4.0))
 - [ai-token-exporter](https://github.com/jimyag/ai-token-exporter) (27 commits, [v0.2.1](https://github.com/jimyag/ai-token-exporter/releases/tag/v0.2.1))
 - [template-repository](https://github.com/jimyag/template-repository) (11 commits, [v0.0.2](https://github.com/jimyag/template-repository/releases/tag/v0.0.2))
-- [jd](https://github.com/jimyag/jd) (16 commits, [v0.3.0](https://github.com/jimyag/jd/releases/tag/v0.3.0))
 <!-- ACTIVITY_END -->
 
 ---
 
 <sub><!-- UPDATED_START -->
-_Last updated: 2026-10-03 19:08 UTC_
+_Last updated: 2026-10-04 19:24 UTC_
 <!-- UPDATED_END --></sub>
