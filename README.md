@@ -29,11 +29,11 @@ focus on reliable and maintainable software.
 #### Recent Activity (Last 180 Days)
 
 <!-- ACTIVITY_START -->
-- [gitwiki](https://github.com/jimyag/gitwiki) (27 commits, [v0.1.0](https://github.com/jimyag/gitwiki/releases/tag/v0.1.0))
+- [gitwiki](https://github.com/jimyag/gitwiki) (29 commits, [v0.1.0](https://github.com/jimyag/gitwiki/releases/tag/v0.1.0))
+- [dotfiles](https://github.com/jimyag/dotfiles) (92 commits)
 - [jvp](https://github.com/jimyag/jvp) (30 commits, [v1.4.0](https://github.com/jimyag/jvp/releases/tag/v1.4.0))
 - [socktrail](https://github.com/jimyag/socktrail) (63 commits, [v0.1.2](https://github.com/jimyag/socktrail/releases/tag/v0.1.2))
 - [Piebald-AI/splitrail](https://github.com/Piebald-AI/splitrail/commits/main/?author=jimyag) (10 merged PRs)
-- [dotfiles](https://github.com/jimyag/dotfiles) (90 commits)
 - [ripples](https://github.com/jimyag/ripples) (86 commits, [v0.3.1](https://github.com/jimyag/ripples/releases/tag/v0.3.1))
 - [ripples-action](https://github.com/jimyag/ripples-action) (4 commits, [v0.1.0](https://github.com/jimyag/ripples-action/releases/tag/v0.1.0))
 - [k8sdev](https://github.com/jimyag/k8sdev) (29 commits)
@@ -54,5 +54,5 @@ focus on reliable and maintainable software.
 ---
 
 <sub><!-- UPDATED_START -->
-_Last updated: 2026-10-05 22:27 UTC_
+_Last updated: 2026-10-06 20:52 UTC_
 <!-- UPDATED_END --></sub>
