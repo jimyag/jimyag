@@ -29,7 +29,9 @@ focus on reliable and maintainable software.
 #### Recent Activity (Last 180 Days)
 
 <!-- ACTIVITY_START -->
-- [dotfiles](https://github.com/jimyag/dotfiles) (100 commits)
+- [jd](https://github.com/jimyag/jd) (18 commits, [v0.4.0](https://github.com/jimyag/jd/releases/tag/v0.4.0))
+- [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn/commits/master/?author=jimyag) (5 merged PRs)
+- [dotfiles](https://github.com/jimyag/dotfiles) (98 commits)
 - [mcga](https://github.com/jimyag/mcga) (71 commits, [v0.1.10](https://github.com/jimyag/mcga/releases/tag/v0.1.10))
 - [gitwiki](https://github.com/jimyag/gitwiki) (30 commits, [v0.1.0](https://github.com/jimyag/gitwiki/releases/tag/v0.1.0))
 - [jvp](https://github.com/jimyag/jvp) (30 commits, [v1.4.0](https://github.com/jimyag/jvp/releases/tag/v1.4.0))
@@ -47,12 +49,10 @@ focus on reliable and maintainable software.
 - [jimmicro/.github](https://github.com/jimmicro/.github/commits/main/?author=jimyag) (2 commits)
 - [jimmicro/pprof](https://github.com/jimmicro/pprof/commits/main/?author=jimyag) (9 commits)
 - [containers](https://github.com/jimyag/containers) (3 commits, [2026-09-16-13-15-03](https://github.com/jimyag/containers/releases/tag/2026-09-16-13-15-03))
-- [ai-token-exporter](https://github.com/jimyag/ai-token-exporter) (27 commits, [v0.2.1](https://github.com/jimyag/ai-token-exporter/releases/tag/v0.2.1))
-- [template-repository](https://github.com/jimyag/template-repository) (11 commits, [v0.0.2](https://github.com/jimyag/template-repository/releases/tag/v0.0.2))
 <!-- ACTIVITY_END -->
 
 ---
 
 <sub><!-- UPDATED_START -->
-_Last updated: 2026-10-07 21:09 UTC_
+_Last updated: 2026-10-08 21:13 UTC_
 <!-- UPDATED_END --></sub>
