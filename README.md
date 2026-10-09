@@ -29,11 +29,12 @@ focus on reliable and maintainable software.
 #### Recent Activity (Last 180 Days)
 
 <!-- ACTIVITY_START -->
+- [gitwiki](https://github.com/jimyag/gitwiki) (31 commits, [v0.1.0](https://github.com/jimyag/gitwiki/releases/tag/v0.1.0))
+- [gpustack/gpustack](https://github.com/gpustack/gpustack/commits/main/?author=jimyag) (3 merged PRs)
 - [jd](https://github.com/jimyag/jd) (18 commits, [v0.4.0](https://github.com/jimyag/jd/releases/tag/v0.4.0))
 - [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn/commits/master/?author=jimyag) (5 merged PRs)
 - [dotfiles](https://github.com/jimyag/dotfiles) (98 commits)
 - [mcga](https://github.com/jimyag/mcga) (71 commits, [v0.1.10](https://github.com/jimyag/mcga/releases/tag/v0.1.10))
-- [gitwiki](https://github.com/jimyag/gitwiki) (30 commits, [v0.1.0](https://github.com/jimyag/gitwiki/releases/tag/v0.1.0))
 - [jvp](https://github.com/jimyag/jvp) (30 commits, [v1.4.0](https://github.com/jimyag/jvp/releases/tag/v1.4.0))
 - [socktrail](https://github.com/jimyag/socktrail) (63 commits, [v0.1.2](https://github.com/jimyag/socktrail/releases/tag/v0.1.2))
 - [Piebald-AI/splitrail](https://github.com/Piebald-AI/splitrail/commits/main/?author=jimyag) (10 merged PRs)
@@ -41,7 +42,6 @@ focus on reliable and maintainable software.
 - [ripples-action](https://github.com/jimyag/ripples-action) (4 commits, [v0.1.0](https://github.com/jimyag/ripples-action/releases/tag/v0.1.0))
 - [k8sdev](https://github.com/jimyag/k8sdev) (29 commits)
 - [stark](https://github.com/jimyag/stark) (42 commits)
-- [gpustack/gpustack](https://github.com/gpustack/gpustack/commits/main/?author=jimyag) (2 merged PRs)
 - [jimmicro/singleflight](https://github.com/jimmicro/singleflight/commits/main/?author=jimyag) (1 commit)
 - [jimmicro/argo](https://github.com/jimmicro/argo/commits/main/?author=jimyag) (1 commit)
 - [jimmicro/grace](https://github.com/jimmicro/grace/commits/main/?author=jimyag) (1 commit)
@@ -54,5 +54,5 @@ focus on reliable and maintainable software.
 ---
 
 <sub><!-- UPDATED_START -->
-_Last updated: 2026-10-08 21:13 UTC_
+_Last updated: 2026-10-09 20:43 UTC_
 <!-- UPDATED_END --></sub>
