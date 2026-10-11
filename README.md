@@ -29,8 +29,10 @@ focus on reliable and maintainable software.
 #### Recent Activity (Last 180 Days)
 
 <!-- ACTIVITY_START -->
+- [dotfiles](https://github.com/jimyag/dotfiles) (100 commits)
+- [Piebald-AI/splitrail](https://github.com/Piebald-AI/splitrail/commits/main/?author=jimyag) (10 merged PRs)
+- [containers](https://github.com/jimyag/containers) (4 commits, [2026-10-11-11-50-28](https://github.com/jimyag/containers/releases/tag/2026-10-11-11-50-28))
 - [oci2vm](https://github.com/jimyag/oci2vm) (18 commits, [v0.1.0](https://github.com/jimyag/oci2vm/releases/tag/v0.1.0))
-- [dotfiles](https://github.com/jimyag/dotfiles) (99 commits)
 - [jd](https://github.com/jimyag/jd) (19 commits, [v0.4.0](https://github.com/jimyag/jd/releases/tag/v0.4.0))
 - [gitwiki](https://github.com/jimyag/gitwiki) (31 commits, [v0.1.0](https://github.com/jimyag/gitwiki/releases/tag/v0.1.0))
 - [gpustack/gpustack](https://github.com/gpustack/gpustack/commits/main/?author=jimyag) (3 merged PRs)
@@ -38,21 +40,19 @@ focus on reliable and maintainable software.
 - [mcga](https://github.com/jimyag/mcga) (71 commits, [v0.1.10](https://github.com/jimyag/mcga/releases/tag/v0.1.10))
 - [jvp](https://github.com/jimyag/jvp) (30 commits, [v1.4.0](https://github.com/jimyag/jvp/releases/tag/v1.4.0))
 - [socktrail](https://github.com/jimyag/socktrail) (63 commits, [v0.1.2](https://github.com/jimyag/socktrail/releases/tag/v0.1.2))
-- [Piebald-AI/splitrail](https://github.com/Piebald-AI/splitrail/commits/main/?author=jimyag) (10 merged PRs)
 - [ripples](https://github.com/jimyag/ripples) (86 commits, [v0.3.1](https://github.com/jimyag/ripples/releases/tag/v0.3.1))
 - [ripples-action](https://github.com/jimyag/ripples-action) (4 commits, [v0.1.0](https://github.com/jimyag/ripples-action/releases/tag/v0.1.0))
 - [k8sdev](https://github.com/jimyag/k8sdev) (29 commits)
 - [stark](https://github.com/jimyag/stark) (42 commits)
+- [jimmicro/singleflight](https://github.com/jimmicro/singleflight/commits/main/?author=jimyag) (1 commit)
 - [jimmicro/argo](https://github.com/jimmicro/argo/commits/main/?author=jimyag) (1 commit)
 - [jimmicro/grace](https://github.com/jimmicro/grace/commits/main/?author=jimyag) (1 commit)
 - [jimmicro/version](https://github.com/jimmicro/version/commits/main/?author=jimyag) (3 commits)
 - [jimmicro/.github](https://github.com/jimmicro/.github/commits/main/?author=jimyag) (2 commits)
-- [jimmicro/pprof](https://github.com/jimmicro/pprof/commits/main/?author=jimyag) (9 commits)
-- [containers](https://github.com/jimyag/containers) (3 commits, [2026-09-16-13-15-03](https://github.com/jimyag/containers/releases/tag/2026-09-16-13-15-03))
 <!-- ACTIVITY_END -->
 
 ---
 
 <sub><!-- UPDATED_START -->
-_Last updated: 2026-10-10 19:56 UTC_
+_Last updated: 2026-10-11 20:07 UTC_
 <!-- UPDATED_END --></sub>
