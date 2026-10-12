@@ -29,11 +29,12 @@ focus on reliable and maintainable software.
 #### Recent Activity (Last 180 Days)
 
 <!-- ACTIVITY_START -->
+- [qiniu/kube-ovn](https://github.com/qiniu/kube-ovn/commits/master/?author=jimyag) (8 merged PRs)
+- [jd](https://github.com/jimyag/jd) (20 commits, [v0.4.0](https://github.com/jimyag/jd/releases/tag/v0.4.0))
 - [dotfiles](https://github.com/jimyag/dotfiles) (100 commits)
 - [Piebald-AI/splitrail](https://github.com/Piebald-AI/splitrail/commits/main/?author=jimyag) (10 merged PRs)
 - [containers](https://github.com/jimyag/containers) (4 commits, [2026-10-11-11-50-28](https://github.com/jimyag/containers/releases/tag/2026-10-11-11-50-28))
 - [oci2vm](https://github.com/jimyag/oci2vm) (18 commits, [v0.1.0](https://github.com/jimyag/oci2vm/releases/tag/v0.1.0))
-- [jd](https://github.com/jimyag/jd) (19 commits, [v0.4.0](https://github.com/jimyag/jd/releases/tag/v0.4.0))
 - [gitwiki](https://github.com/jimyag/gitwiki) (31 commits, [v0.1.0](https://github.com/jimyag/gitwiki/releases/tag/v0.1.0))
 - [gpustack/gpustack](https://github.com/gpustack/gpustack/commits/main/?author=jimyag) (3 merged PRs)
 - [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn/commits/master/?author=jimyag) (5 merged PRs)
@@ -48,11 +49,10 @@ focus on reliable and maintainable software.
 - [jimmicro/argo](https://github.com/jimmicro/argo/commits/main/?author=jimyag) (1 commit)
 - [jimmicro/grace](https://github.com/jimmicro/grace/commits/main/?author=jimyag) (1 commit)
 - [jimmicro/version](https://github.com/jimmicro/version/commits/main/?author=jimyag) (3 commits)
-- [jimmicro/.github](https://github.com/jimmicro/.github/commits/main/?author=jimyag) (2 commits)
 <!-- ACTIVITY_END -->
 
 ---
 
 <sub><!-- UPDATED_START -->
-_Last updated: 2026-10-11 20:07 UTC_
+_Last updated: 2026-10-12 22:50 UTC_
 <!-- UPDATED_END --></sub>
