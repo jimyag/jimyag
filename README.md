@@ -29,7 +29,7 @@ focus on reliable and maintainable software.
 #### Recent Activity (Last 180 Days)
 
 <!-- ACTIVITY_START -->
-- [qiniu/kube-ovn](https://github.com/qiniu/kube-ovn/commits/master/?author=jimyag) (8 merged PRs)
+- [qiniu/kube-ovn](https://github.com/qiniu/kube-ovn/commits/master/?author=jimyag) (7 merged PRs)
 - [jd](https://github.com/jimyag/jd) (20 commits, [v0.4.0](https://github.com/jimyag/jd/releases/tag/v0.4.0))
 - [dotfiles](https://github.com/jimyag/dotfiles) (100 commits)
 - [Piebald-AI/splitrail](https://github.com/Piebald-AI/splitrail/commits/main/?author=jimyag) (10 merged PRs)
@@ -44,7 +44,7 @@ focus on reliable and maintainable software.
 - [ripples](https://github.com/jimyag/ripples) (86 commits, [v0.3.1](https://github.com/jimyag/ripples/releases/tag/v0.3.1))
 - [ripples-action](https://github.com/jimyag/ripples-action) (4 commits, [v0.1.0](https://github.com/jimyag/ripples-action/releases/tag/v0.1.0))
 - [k8sdev](https://github.com/jimyag/k8sdev) (29 commits)
-- [stark](https://github.com/jimyag/stark) (42 commits)
+- [stark](https://github.com/jimyag/stark) (29 commits)
 - [jimmicro/singleflight](https://github.com/jimmicro/singleflight/commits/main/?author=jimyag) (1 commit)
 - [jimmicro/argo](https://github.com/jimmicro/argo/commits/main/?author=jimyag) (1 commit)
 - [jimmicro/grace](https://github.com/jimmicro/grace/commits/main/?author=jimyag) (1 commit)
@@ -54,5 +54,5 @@ focus on reliable and maintainable software.
 ---
 
 <sub><!-- UPDATED_START -->
-_Last updated: 2026-10-12 22:50 UTC_
+_Last updated: 2026-10-13 21:08 UTC_
 <!-- UPDATED_END --></sub>
