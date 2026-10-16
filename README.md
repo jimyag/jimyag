@@ -29,14 +29,16 @@ focus on reliable and maintainable software.
 #### Recent Activity (Last 180 Days)
 
 <!-- ACTIVITY_START -->
+- [pingexporter](https://github.com/jimyag/pingexporter) (3 commits, [v1.2.0](https://github.com/jimyag/pingexporter/releases/tag/v1.2.0))
+- [socktrail](https://github.com/jimyag/socktrail) (71 commits, [v0.2.1](https://github.com/jimyag/socktrail/releases/tag/v0.2.1))
+- [kubevirt-dashboard](https://github.com/jimyag/kubevirt-dashboard) (13 commits, [v2.2.0](https://github.com/jimyag/kubevirt-dashboard/releases/tag/v2.2.0))
 - [dotfiles](https://github.com/jimyag/dotfiles) (100 commits)
+- [jd](https://github.com/jimyag/jd) (22 commits, [v0.5.0](https://github.com/jimyag/jd/releases/tag/v0.5.0))
+- [Piebald-AI/splitrail](https://github.com/Piebald-AI/splitrail/commits/main/?author=jimyag) (10 merged PRs)
 - [ripples](https://github.com/jimyag/ripples) (89 commits, [v0.3.4](https://github.com/jimyag/ripples/releases/tag/v0.3.4))
 - [askshell](https://github.com/jimyag/askshell) (13 commits, [v0.0.1](https://github.com/jimyag/askshell/releases/tag/v0.0.1))
-- [socktrail](https://github.com/jimyag/socktrail) (64 commits, [v0.1.2](https://github.com/jimyag/socktrail/releases/tag/v0.1.2))
 - [mcga](https://github.com/jimyag/mcga) (72 commits, [v0.1.11](https://github.com/jimyag/mcga/releases/tag/v0.1.11))
 - [qiniu/kube-ovn](https://github.com/qiniu/kube-ovn/commits/master/?author=jimyag) (7 merged PRs)
-- [jd](https://github.com/jimyag/jd) (20 commits, [v0.4.0](https://github.com/jimyag/jd/releases/tag/v0.4.0))
-- [Piebald-AI/splitrail](https://github.com/Piebald-AI/splitrail/commits/main/?author=jimyag) (9 merged PRs)
 - [containers](https://github.com/jimyag/containers) (4 commits, [2026-10-11-11-50-28](https://github.com/jimyag/containers/releases/tag/2026-10-11-11-50-28))
 - [oci2vm](https://github.com/jimyag/oci2vm) (18 commits, [v0.1.0](https://github.com/jimyag/oci2vm/releases/tag/v0.1.0))
 - [gitwiki](https://github.com/jimyag/gitwiki) (31 commits, [v0.1.0](https://github.com/jimyag/gitwiki/releases/tag/v0.1.0))
@@ -47,12 +49,10 @@ focus on reliable and maintainable software.
 - [k8sdev](https://github.com/jimyag/k8sdev) (29 commits)
 - [stark](https://github.com/jimyag/stark) (28 commits)
 - [jimmicro/singleflight](https://github.com/jimmicro/singleflight/commits/main/?author=jimyag) (1 commit)
-- [jimmicro/grace](https://github.com/jimmicro/grace/commits/main/?author=jimyag) (1 commit)
-- [jimmicro/version](https://github.com/jimmicro/version/commits/main/?author=jimyag) (3 commits)
 <!-- ACTIVITY_END -->
 
 ---
 
 <sub><!-- UPDATED_START -->
-_Last updated: 2026-10-15 19:48 UTC_
+_Last updated: 2026-10-16 19:29 UTC_
 <!-- UPDATED_END --></sub>
