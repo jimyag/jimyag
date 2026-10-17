@@ -29,10 +29,11 @@ focus on reliable and maintainable software.
 #### Recent Activity (Last 180 Days)
 
 <!-- ACTIVITY_START -->
+- [dotfiles](https://github.com/jimyag/dotfiles) (100 commits)
+- [stark](https://github.com/jimyag/stark) (29 commits)
 - [pingexporter](https://github.com/jimyag/pingexporter) (3 commits, [v1.2.0](https://github.com/jimyag/pingexporter/releases/tag/v1.2.0))
 - [socktrail](https://github.com/jimyag/socktrail) (71 commits, [v0.2.1](https://github.com/jimyag/socktrail/releases/tag/v0.2.1))
 - [kubevirt-dashboard](https://github.com/jimyag/kubevirt-dashboard) (13 commits, [v2.2.0](https://github.com/jimyag/kubevirt-dashboard/releases/tag/v2.2.0))
-- [dotfiles](https://github.com/jimyag/dotfiles) (100 commits)
 - [jd](https://github.com/jimyag/jd) (22 commits, [v0.5.0](https://github.com/jimyag/jd/releases/tag/v0.5.0))
 - [Piebald-AI/splitrail](https://github.com/Piebald-AI/splitrail/commits/main/?author=jimyag) (10 merged PRs)
 - [ripples](https://github.com/jimyag/ripples) (89 commits, [v0.3.4](https://github.com/jimyag/ripples/releases/tag/v0.3.4))
@@ -47,12 +48,11 @@ focus on reliable and maintainable software.
 - [jvp](https://github.com/jimyag/jvp) (30 commits, [v1.4.0](https://github.com/jimyag/jvp/releases/tag/v1.4.0))
 - [ripples-action](https://github.com/jimyag/ripples-action) (4 commits, [v0.1.0](https://github.com/jimyag/ripples-action/releases/tag/v0.1.0))
 - [k8sdev](https://github.com/jimyag/k8sdev) (29 commits)
-- [stark](https://github.com/jimyag/stark) (28 commits)
 - [jimmicro/singleflight](https://github.com/jimmicro/singleflight/commits/main/?author=jimyag) (1 commit)
 <!-- ACTIVITY_END -->
 
 ---
 
 <sub><!-- UPDATED_START -->
-_Last updated: 2026-10-16 19:29 UTC_
+_Last updated: 2026-10-17 18:20 UTC_
 <!-- UPDATED_END --></sub>
