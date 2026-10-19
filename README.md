@@ -29,14 +29,14 @@ focus on reliable and maintainable software.
 #### Recent Activity (Last 180 Days)
 
 <!-- ACTIVITY_START -->
+- [dotfiles](https://github.com/jimyag/dotfiles) (100 commits)
+- [Piebald-AI/splitrail](https://github.com/Piebald-AI/splitrail/commits/main/?author=jimyag) (10 merged PRs)
+- [socktrail](https://github.com/jimyag/socktrail) (73 commits, [v0.2.1](https://github.com/jimyag/socktrail/releases/tag/v0.2.1))
+- [pingexporter](https://github.com/jimyag/pingexporter) (4 commits, [v1.2.0](https://github.com/jimyag/pingexporter/releases/tag/v1.2.0))
 - [stark](https://github.com/jimyag/stark) (32 commits)
 - [ip-geolocation-chrome-extension](https://github.com/jimyag/ip-geolocation-chrome-extension) (6 commits, [v1.1.1](https://github.com/jimyag/ip-geolocation-chrome-extension/releases/tag/v1.1.1))
-- [dotfiles](https://github.com/jimyag/dotfiles) (100 commits)
-- [pingexporter](https://github.com/jimyag/pingexporter) (3 commits, [v1.2.0](https://github.com/jimyag/pingexporter/releases/tag/v1.2.0))
-- [socktrail](https://github.com/jimyag/socktrail) (71 commits, [v0.2.1](https://github.com/jimyag/socktrail/releases/tag/v0.2.1))
 - [kubevirt-dashboard](https://github.com/jimyag/kubevirt-dashboard) (13 commits, [v2.2.0](https://github.com/jimyag/kubevirt-dashboard/releases/tag/v2.2.0))
 - [jd](https://github.com/jimyag/jd) (22 commits, [v0.5.0](https://github.com/jimyag/jd/releases/tag/v0.5.0))
-- [Piebald-AI/splitrail](https://github.com/Piebald-AI/splitrail/commits/main/?author=jimyag) (9 merged PRs)
 - [ripples](https://github.com/jimyag/ripples) (89 commits, [v0.3.4](https://github.com/jimyag/ripples/releases/tag/v0.3.4))
 - [askshell](https://github.com/jimyag/askshell) (13 commits, [v0.0.1](https://github.com/jimyag/askshell/releases/tag/v0.0.1))
 - [mcga](https://github.com/jimyag/mcga) (71 commits, [v0.1.11](https://github.com/jimyag/mcga/releases/tag/v0.1.11))
@@ -54,5 +54,5 @@ focus on reliable and maintainable software.
 ---
 
 <sub><!-- UPDATED_START -->
-_Last updated: 2026-10-18 18:32 UTC_
+_Last updated: 2026-10-19 20:57 UTC_
 <!-- UPDATED_END --></sub>
