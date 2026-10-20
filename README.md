@@ -19,40 +19,14 @@ focus on reliable and maintainable software.
 - Networks, resource allocation, and tenant isolation
 - Storage systems, data platforms, and developer tools
 
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Firecracker](https://img.shields.io/badge/-Firecracker-FF6600?style=flat-square)
+#### Selected Projects
 
-#### Recent Activity (Last 180 Days)
-
-<!-- ACTIVITY_START -->
-- [dotfiles](https://github.com/jimyag/dotfiles) (100 commits)
-- [Piebald-AI/splitrail](https://github.com/Piebald-AI/splitrail/commits/main/?author=jimyag) (10 merged PRs)
-- [socktrail](https://github.com/jimyag/socktrail) (73 commits, [v0.2.1](https://github.com/jimyag/socktrail/releases/tag/v0.2.1))
-- [pingexporter](https://github.com/jimyag/pingexporter) (4 commits, [v1.2.0](https://github.com/jimyag/pingexporter/releases/tag/v1.2.0))
-- [stark](https://github.com/jimyag/stark) (32 commits)
-- [ip-geolocation-chrome-extension](https://github.com/jimyag/ip-geolocation-chrome-extension) (6 commits, [v1.1.1](https://github.com/jimyag/ip-geolocation-chrome-extension/releases/tag/v1.1.1))
-- [kubevirt-dashboard](https://github.com/jimyag/kubevirt-dashboard) (13 commits, [v2.2.0](https://github.com/jimyag/kubevirt-dashboard/releases/tag/v2.2.0))
-- [jd](https://github.com/jimyag/jd) (22 commits, [v0.5.0](https://github.com/jimyag/jd/releases/tag/v0.5.0))
-- [ripples](https://github.com/jimyag/ripples) (89 commits, [v0.3.4](https://github.com/jimyag/ripples/releases/tag/v0.3.4))
-- [askshell](https://github.com/jimyag/askshell) (13 commits, [v0.0.1](https://github.com/jimyag/askshell/releases/tag/v0.0.1))
-- [mcga](https://github.com/jimyag/mcga) (71 commits, [v0.1.11](https://github.com/jimyag/mcga/releases/tag/v0.1.11))
-- [qiniu/kube-ovn](https://github.com/qiniu/kube-ovn/commits/master/?author=jimyag) (7 merged PRs)
-- [containers](https://github.com/jimyag/containers) (4 commits, [2026-10-11-11-50-28](https://github.com/jimyag/containers/releases/tag/2026-10-11-11-50-28))
-- [oci2vm](https://github.com/jimyag/oci2vm) (18 commits, [v0.1.0](https://github.com/jimyag/oci2vm/releases/tag/v0.1.0))
-- [gitwiki](https://github.com/jimyag/gitwiki) (31 commits, [v0.1.0](https://github.com/jimyag/gitwiki/releases/tag/v0.1.0))
-- [gpustack/gpustack](https://github.com/gpustack/gpustack/commits/main/?author=jimyag) (3 merged PRs)
-- [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn/commits/master/?author=jimyag) (5 merged PRs)
-- [jvp](https://github.com/jimyag/jvp) (30 commits, [v1.4.0](https://github.com/jimyag/jvp/releases/tag/v1.4.0))
-- [ripples-action](https://github.com/jimyag/ripples-action) (4 commits, [v0.1.0](https://github.com/jimyag/ripples-action/releases/tag/v0.1.0))
-- [k8sdev](https://github.com/jimyag/k8sdev) (29 commits)
-<!-- ACTIVITY_END -->
-
----
-
-<sub><!-- UPDATED_START -->
-_Last updated: 2026-10-19 20:57 UTC_
-<!-- UPDATED_END --></sub>
+| Project | What it does |
+| --- | --- |
+| [ai-token-exporter](https://github.com/jimyag/ai-token-exporter) | Export local AI coding tool token usage as Prometheus metrics. |
+| [jd](https://github.com/jimyag/jd) | Install and upgrade developer tools from a unified registry. |
+| [jvp](https://github.com/jimyag/jvp) | Manage QEMU/KVM virtual machines through a REST API and web UI. |
+| [oci2vm](https://github.com/jimyag/oci2vm) | Convert container images into bootable virtual machine disks. |
+| [socktrail](https://github.com/jimyag/socktrail) | Inspect Linux network traffic, connections, processes, and visible domains in a terminal. |
+| [gitwiki](https://github.com/jimyag/gitwiki) | Collaborate on a Git-backed wiki with GitHub authentication, permissions, and version history. |
+| [commitlens](https://github.com/jimyag/commitlens) | Analyze Git contributions and code churn through a TUI and embedded web UI. |
